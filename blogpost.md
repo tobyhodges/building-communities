@@ -32,3 +32,8 @@ Instructors, across disciplines, local SWC courses as incubators for local commu
 
 ## Ideas pitched
 
+### de-RSE role
+
+* connecting communities
+* idea: running a workshop in Germany: How to run a RSE group? 
+
