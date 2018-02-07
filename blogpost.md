@@ -8,12 +8,19 @@
 
 ## Invited Parties
 
-* Michael Meinel, DLR
-* Stefan Helfrich, NEUBIAS
-* Anna Krystally, RSE Group Sheffield
-* Stephan Janosch, de-RSE.org
+### Michael Meinel, DLR
 
-* Aidan Budd, embl, remotely 
+in replacement for Tobias Schlauch
+
+### Stefan Helfrich, NEUBIAS
+
+### Anna Krystally, RSE Group Sheffield
+
+### Stephan Janosch, de-RSE.org
+
+invited kindly by embl, because no travel budget inside de-RSE. Thanks embl!
+
+### Aidan Budd, embl, remotely 
 
 Write a short paragraph per invited person
 
