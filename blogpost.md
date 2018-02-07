@@ -19,5 +19,9 @@ Write a short paragraph per invited person
 
 ## Questions discussed
 
+### SWC in Germany
+
+Instructors, across disciplines, local SWC courses as incubators for local communities
+
 ## Ideas pitched
 
