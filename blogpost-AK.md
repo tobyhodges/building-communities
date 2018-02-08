@@ -11,7 +11,7 @@ In particular, many German RSEs in that first survey do not look forward to anot
 
 > How can we leverage community to spread better research software development practice?
 
-And how better to answer it than to get round a table and swap notes on our experiences of community building so far. Toby and Malvika made arrangements to host us all at EMBL Heidelberg and set the date for 24 Jan 2018. Myself and Stephan were also gratefully supported by the SSI and EMBL Bio-IT respectively who covered our costs for the trip.
+And how better to answer it than to get round a table and swap notes on our experiences of community building so far. Motivated by a need to learn more about building remote communities, with a view to developing connections for Bio-IT beyond their locale, EMBL Bio-IT made arrangements to host us all at their site in Heidelberg and set the date for 24 Jan 2018. Myself and Stephan were also gratefully supported by the SSI and EMBL Bio-IT respectively who covered our costs for the trip.
 
 
  
@@ -33,7 +33,7 @@ And how better to answer it than to get round a table and swap notes on our expe
 <br>
 
 
-Toby Hodges shared experiences from the now famous EMBL Bio-IT, Michael representing the DLR took Tobias' place who sadly could not join because of illness, Stefan Janosch brought experiences in a number of initiatives, spanning from his local institution Max Planck Institute of Molecular Cell Biology and Genetics, the Dresden Concept, a research alliance among 24 Dresden based research institutions and at the national level, RSE-de network of German RSEs. Stefan Helfrich, an excellent impromptu addition resulting from Toby's involvement in [the Carpentries' mentorship groups program](https://github.com/carpentries/mentoring/tree/master/mentoring-groups), represented the NEUBIAS network of image analysts.  
+Toby Hodges, Malvika Sharan, and Georg Zeller shared experiences from EMBL Bio-IT, with a brief appearance (via video call) from Aidan Budd to provide details of the early days; Michael representing the DLR took Tobias' place who sadly could not join because of illness; Stefan Janosch brought experiences in a number of initiatives, spanning from his local institution Max Planck Institute of Molecular Cell Biology and Genetics, via the Dresden Concept, a research alliance among 24 Dresden based research institutions and at the national level, to the de-RSE network of German RSEs; Stefan Helfrich, an excellent impromptu addition resulting from Toby's involvement in [the Carpentries' mentorship groups program](https://github.com/carpentries/mentoring/tree/master/mentoring-groups), represented the NEUBIAS network of image analysts.  
 
 My own interest came from exploting the literature on [**communities of practise**() for a proposal I was writing and it struck me that I'd already had experience of some very successful examples of such communties. As a member of the Mozilla Open Leaders mentorship programme, the rOpenSci and wider r community but also more locally as a co-organiser of the R Users group, We've also recently been trying to apply many of these ideas on a cross-departmental team charged with building community around data visualisation across the University of Sheffield. 
 
