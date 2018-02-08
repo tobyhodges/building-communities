@@ -11,7 +11,7 @@ In particular, many German RSEs in that first survey do not look forward to anot
 
 > How can we leverage community to spread better research software development practice?
 
-And how better to answer it than to get round a table and swap notes on our experiences of community building so far. Toby and Malika made arrangements to host us all at EMBL Heidelberg and set the date for 24 Jan 2018. Myself and Stephan were also gratefully supported by the SSI and EMBL Bio-IT respectively who covered our costs for the trip.
+And how better to answer it than to get round a table and swap notes on our experiences of community building so far. Toby and Malvika made arrangements to host us all at EMBL Heidelberg and set the date for 24 Jan 2018. Myself and Stephan were also gratefully supported by the SSI and EMBL Bio-IT respectively who covered our costs for the trip.
 
 
  
@@ -191,7 +191,7 @@ Time and again, and related to why these skills aren't appreaciated, we find it 
 
 - Also, while UK RSE is bringing people together, German RSEs still feel isolated
 
-So it's key to open our discussions up
+So it's key to open our discussions up. In the coming weeks, Toby hopes to organise the first in a series of open calls for anyone interested in building communities. The first call planned will focus on strategies to bring geographically isolated individuals into a community, addressing the feelings of loneliness and lack of in-person contact described above. Anyone reading this is welcome to attend: watch this space for further updates!
 
 
 ### Reusable, customisable templates (ie stop re-inventing the wheel)
