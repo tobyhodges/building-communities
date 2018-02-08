@@ -103,6 +103,8 @@ Clearly there is a lot well deserved effort into Guidelines of Best Practice and
 
 #### Actively fostering engagement and participation
 
+Successful communities thrive on diverse contributions from a wide range of their members. Most of the attendees at this particular meeting were representing the efforts of a much broader selection of contributors to their respective communities. The role of a community coordinator is often to encourage and facilitate the voluntary efforts of the larger group, and it is this engagement across the whole community that, in turn, produces the most amazing reults. To get some idea of the number of individual contributions that it can take to create a successful community, check out the Acknowledgments slide from [Toby's talk at RSE17](http://rse.ac.uk/conf2017/wp-content/uploads/sites/2/2017/11/Bioinformatics_Community_Hodges_RSE17_2.pdf)!
+
 Alot of this however falls in the least recognised and appreciated category. The importance of community catalysts
 
 Aidan Budd. We routinely ended up back at t0, being inspired by Aidan Budd's vision and drive. A catalysing froce as a driver of community building initiative is an invaluable resource and I can think of many I mentioned 
