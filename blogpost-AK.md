@@ -24,7 +24,7 @@ Toby Hodges, Malvika Sharan, and Georg Zeller shared experiences from EMBL Bio-I
 
 My own interest came from exploiting the literature on **communities of practise** for a proposal I was writing and it struck me that I'd already had experience of some very successful examples of such communities. As a member of the [Mozilla Open Leaders mentorship program](https://mozilla.github.io/leadership-training/), the [rOpenSci](https://ropensci.org/) and wider [R programming community](https://www.r-project.org/) but also more locally as a co-organiser of the R Users group, we've also recently been trying to apply many of these ideas on a cross-departmental team charged with building community around data visualisation across the University of Sheffield.
 
-The role of a community builder or manager is to facilitate a a domain specific platform, bringing outsiders in through practice and participation. Their magic lies in the social capital they create, the network of collaborative relationships and a shared, codified repertoire of best practice, supplement by channels of tacit knowledge flow.
+The role of a community builder or manager is to facilitate a domain specific platform, bringing outsiders in through practice and participation. Their magic lies in the social capital they create, the network of collaborative relationships and a shared, codified repertoire of best practice, supplemented by channels of tacit knowledge flow.
 
 > Yes, users. Even if you did not realize it or "never signed up for no community," you in fact are already a part of this community. The question is whether you'll choose to participate actively.
 
