@@ -46,15 +46,6 @@ This should be close to the first step in building any community and is imperati
 
 *And it all started with a survey*: we all started with some form of surveying our communities. An important aspect of surveying for information is to find out both where the community is at and where they want to go. Activities can then be targeted towards the wishes and needs of the community to generate a higher rate of engagement and voluntary participation.
 
-> *COST* is an EU-funded programme that enables researchers to set up their interdisciplinary research networks in Europe and beyond. We provide funds for organising conferences, meetings, training schools, short scientific exchanges or other networking activities in a wide range of scientific topics. By creating open spaces where people and ideas can grow, we unlock the full potential of science.
-
-**more detail on what the NEUBIAS COST action funding was used for
-
-- NEUBIAS H2020 COST action funding
-- EMBL - high level funding and top level buy in!
-- Sheffield - Mike Croucher's EPSRC Fellowship
-- DLR: getting the right people in the room: community above individuals
-
 #### Effective communication channels
 
 > Community == communication
@@ -114,7 +105,9 @@ One of the key drivers of the longest standing and most developed communities is
 
 #### Funding!
 
-Related to buy in is financial support of activities. At the very least, funding for dedicated community building personnel can provide an important start. e.g. EMBL and DLR and Mike Croucher's EPSRC Fellowship supported such roles.   
+Related to buy in is financial support of activities. At the very least, funding for dedicated community building personnel can provide an important start. e.g. EMBL and DLR and Mike Croucher's EPSRC Fellowship supported such roles. Since research is an inherently international and/or multi-organization endeavor, financial support from umbrella organization can be sought. The European Union, for instance, has established a programme (COST) for setting up international research networks. NEUBIAS has setup aforementioned events (conferences, training schools, short scientific exchanges) and networking activities from COST funding.
+
+Additional information can on funding schemes is described in [Eisfeld-Reschke J., Herb U., Wenzlaff K. (2014) Research Funding in Open Science. In: Bartling S., Friesike S. (eds) Opening Science. Springer, Cham](https://doi.org/10.1007/978-3-319-00026-8_16).
 
 ### continuing challenges?
 
