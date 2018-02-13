@@ -152,7 +152,7 @@ Time and again, and related to why these skills aren't appreciated, we find it d
 
 - Also, while UK RSE is bringing people together, German RSEs still feel isolated
 
-So, it's key to open our discussions up. In the coming weeks, Toby hopes to organise the first in a series of open calls for anyone interested in building communities. The first call planned will focus on strategies to bring geographically isolated individuals into a community, addressing the feelings of loneliness and lack of in-person contact described above. Anyone reading this is welcome to attend: watch this space for further updates!
+So, it's key to open our discussions up. In the coming weeks, Toby and Malvika hope to organise the first in a series of open calls for anyone interested in building communities. The first call planned will focus on strategies to bring geographically isolated individuals into a community, addressing the feelings of loneliness and lack of in-person contact described above. Anyone reading this is welcome to attend: watch this space for further updates!
 
 ### Reusable, customisable templates (ie stop re-inventing the wheel)
 
