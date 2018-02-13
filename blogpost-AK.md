@@ -103,7 +103,7 @@ Note that local events can now relatively easily open up proceedings. Live strea
 
 One of the key drivers of the longest standing and most developed communities is buy in and support form upper management. Bio-IT benefited by this being flagged early on in the process and lead to them now having nearly 8 years of well-resourced effort. Similarly, the DLR initiative was driven by first raising awareness in management level which subsequently lead to upper management support.
 
-**TODO: The definition of upper management actually depends on how localized or how decentralized a community is. Sometimes there is nothing like an "upper management".
+**SH: The definition of upper management actually depends on how localized or how decentralized a community is. Sometimes there is nothing like an "upper management".
 
 #### Funding!
 
@@ -134,8 +134,9 @@ Many of the activities are often undervalued and therefore difficult to attract 
 
 Time and again, and related to why these skills aren't appreciated, we find it difficult to measure and promote the effect of such community and capacity building efforts. Hard to link to publications. A particular difficulty raised by the DLR team is how to measure improvements in the **quality** of software produced. Ultimately, this is what determines whether research software is more dependable and indeed more reusable.
 
+**SH: I guess this is one of the important re-occuring schemes with respect to funding. How do we actually determine, if a community is successful in the context of a proposal/call.
+
 #### people still feel isolated (especially when disparate in physical location). This is particularly the case of the NEUBIAS disconnected (SJ & SH). Result:
-    
 
 > Because as Ḱevin Ottens rightly said during the Desktop Summit 2011 in Berlin: "Community building is family and friendship building."
 
