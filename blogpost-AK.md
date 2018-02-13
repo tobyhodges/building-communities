@@ -103,6 +103,8 @@ Note that local events can now relatively easily open up proceedings. Live strea
 
 One of the key drivers of the longest standing and most developed communities is buy in and support form upper management. Bio-IT benefited by this being flagged early on in the process and lead to them now having nearly 8 years of well-resourced effort. Similarly, the DLR initiative was driven by first raising awareness in management level which subsequently lead to upper management support.
 
+**TODO: The definition of upper management actually depends on how localized or how decentralized a community is. Sometimes there is nothing like an "upper management".
+
 #### Funding!
 
 Related to buy in is financial support of activities. At the very least, funding for dedicated community building personnel can provide an important start. e.g. EMBL and DLR and Mike Croucher's EPSRC Fellowship supported such roles. Since research is an inherently international and/or multi-organization endeavor, financial support from umbrella organization can be sought. The European Union, for instance, has established a programme (COST) for setting up international research networks. NEUBIAS has setup aforementioned events (conferences, training schools, short scientific exchanges) and networking activities from COST funding.
