@@ -44,7 +44,9 @@ The motivation of this meeting was to swap notes on what we've tried already to 
 
 This should be close to the first step in building any community and is imperative for adding value which in turn is what drives voluntary participation.
 
-*And it all started with a survey*: we all started with some form of surveying our communities. An important aspect of surveying for information is to find out both where the community is at and where they want to go. Activities can then be targeted towards the wishes of the community and a higher rate of engagement and voluntary participation.
+*And it all started with a survey*: we all started with some form of surveying our communities. An important aspect of surveying for information is to find out both where the community is at and where they want to go. Activities can then be targeted towards the wishes and needs of the community to generate a higher rate of engagement and voluntary participation.
+
+> *COST* is an EU-funded programme that enables researchers to set up their interdisciplinary research networks in Europe and beyond. We provide funds for organising conferences, meetings, training schools, short scientific exchanges or other networking activities in a wide range of scientific topics. By creating open spaces where people and ideas can grow, we unlock the full potential of science.
 
 **more detail on what the NEUBIAS COST action funding was used for
 
@@ -59,20 +61,18 @@ This should be close to the first step in building any community and is imperati
 
 Important for both the transfer of information, particularly of tacit knowledge, but also be social to foster collaborative relationships so will likely be multi-pronged. Across the various initiatives, from the mailing lists, Google groups, Slack channels, all forms of approaches have been tried.
 
-An excellent example is the [mattermost](https://about.mattermost.com/)-based internal chat system, developed by the community members of Bio-IT for the communication within the organisation. The control and privacy is a big benefit of this approach but can be difficult to communicate with the outside. More open channels like [Slack](https://slack.com) and [Glip](https://glip.com) are being successfully used to power all sorts of open source and data science communities including the UK RSE are really important for making people feel connected to each other. The beauty of many such tools are beginning to crossover into self-documentation due to message archiving and searchability. Discussion boards, whether through Google groups or the awesome [discourse](https://www.discourse.org/), e.g., [rOpenSci](https://discuss.ropensci.org/), can balance the instant nature of chat-based systems. Great moderators can channel useful discussions on chat channels to better curated discussion boards. 
+An excellent example is the [mattermost](https://about.mattermost.com/)-based internal chat system, developed by the community members of Bio-IT for the communication within the organisation. The control and privacy is a big benefit of this approach but can be difficult to communicate with the outside. More open channels like [Slack](https://slack.com) and [Glip](https://glip.com) are being successfully used to power all sorts of open source and data science communities including the UK RSE are really important for making people feel connected to each other. The beauty of many such tools are beginning to crossover into self-documentation due to message archiving and searchability. Discussion boards, whether through Google groups or the awesome [discourse](https://www.discourse.org/), e.g., [rOpenSci](https://discuss.ropensci.org/), can balance the instant nature of chat-based systems. Great moderators can channel useful discussions on chat channels to better curated discussion boards.
 
 #### Codifying and documenting community practice. Tooling
 
-Beyond trading stories however, there is a need for foundational tools and documentation codifying best practice and forming and forming a foundational resource from which best practice can be codified and built on. This includes blogs, discussion forums, white papers and standards. There is likely much scope for development here to support the kind of documentation. We are all eagerly awaiting the translation of the DLR documentation materials into English. They had a really interesting concept of a tiered level of application classes, each according to the research project scope and size with its own documentation recommendations, as well a minimum requirement for all software.
+Beyond trading stories however, there is a need for foundational tools and documentation codifying best practice and forming a foundational resource from which best practice can be codified and built on. This includes blogs, white papers and standards. There is likely much scope for development here to support the kind of documentation in the various communities. We are all eagerly awaiting the translation of the DLR documentation materials into English. They had a really interesting concept of a tiered level of application classes, each according to the research project scope and size with its own documentation recommendations, as well a minimum requirement for all software projects.
 
 Again, it's hard to quantify quite the effect that sites like stack overflow, and indeed the flash bombing of the site with R, but their foundational role in proving foundations for which a knowledge exchange community can be built upon. 
 
-
 The DLR approach is a particular great example of how codification through guidelines of practice and community practice feedback into each other. While tasked with developing a framework for sustainable software development, the group work with contacts at each institute of the DLR from which they gain feedback on the direction of both the requirement for guidelines, new tools and training. 
-They make use of wikis, but also check sheets in a variety of formats (eg markdown & word) linked to reasoning and further advice next to each point. Actually looks very similar to the rOpenSci on boarding review checklist. 
+They make use of wikis, but also check sheets in a variety of formats (eg markdown & word) linked to reasoning and further advice next to each point. Actually looks very similar to the [rOpenSci onboarding review checklist](https://github.com/ropensci/onboarding/blob/8df4312fec93eb620132ec83714fbac7039a0e0f/reviewer_template.md). 
 
 ![](assets/ts-guidelines.png)
-
 
 Clearly there is a lot well deserved effort into Guidelines of Best Practice and documentation, and we feel good foundations are being laid, for example the Netherlands eScience Centre Guide. With all these, building upon rather than duplicating would serves us well. From there, as Research Software engineers we can support by customisable templating.
 
