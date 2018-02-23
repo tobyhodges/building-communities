@@ -54,30 +54,21 @@ An excellent example is the [mattermost](https://about.mattermost.com/) based in
 
 But it's important to note that it's often good to signpost between communities. For example, for R questions beginners might have, I would unhesitantly guide learners to the [R for Data Science (#R4DS)]() slack community. The 800+ strong slack team of mentors and learners is a constant hive of discussion and trouble shouting while worthing through [R for Data Science](). For slightly more technical questions, I might guide someone to the [rOpenSci]() [slack community]() or the [rOpenSci](https://discuss.ropensci.org/) or [Rstudio]() discussion boards (powered by [discourse](https://www.discourse.org/), another nice open source community building resource).
 
+<br>
+
 #### Codifying and documenting community practice. Tooling
 
-A foundational aspect of building of a community of practice is the codification and dissemination of standards and guidelines. The DLR approach is a particular great example. They make use of wikis and check lists in a variety of formats (eg markdown & word) to help guide software development and follow a tiered level approach to recommendations, as well as a minimum requirement for all software. They are determined by a project's application class, dependent on the research project scope and size.  linked to reasoning and further advice next to each point.
+A foundational aspect of establishing community culture and practice is the codification and dissemination of standards and guidelines. The DLR approach is a particular great example. They make use of wikis and check lists in a variety of formats (eg markdown & word) to help guide software development. They have established a minimum requirement for all software and further recommendations follow a tiered level fremwork determined by a project's application class, in particular the software scope and size. 
+
+Individual recommendations are linked to reasoning and further advice which helps researchers understand and get behind the underlying reasoning behind them. Even more importantly, the group work with contacts at each institute of the DLR to regulraly get feedback on evolving requirement for guidelines, new tools and training. While we all eagerly await the translation of the DLR documentation materials into English, prehaps this is somewhere the RSE community can help, by establishing community translation initiatives (see this [excellent post by Achintya Rao](https://medium.com/@RaoOfPhysics/a-guide-to-collaborative-translation-workflows-48c259100614) on how collaborate translation could be supported. 
 
 
 ![](assets/ts-guidelines.png)
 
 
-community practice feedback into each other.While tasked with developing a framework for sustainable software development, the group work with contacts at each institute of the DLR from which they gain feedback on the direction of both the requirement for guidelines, new tools and training. 
+Clearly there is a lot well deserved effort into Guidelines of Best Practice and documentation, for example the Netherlands [eScience Centre Guide](https://guide.esciencecenter.nl/) is another great example. So it's important that we building upon such efforts rather than duplicating them and we feel that focusing on developing reusable, customisable templates to help guide best practice would serves us well.
 
-We are all eagerly awaiting the translation of the DLR documentation materials into English.
-
-Community documentation is actually much broader than that and can take many forms, including blogs, wikis, READMEs and websites, discussion forums, papers and standards. There is likely much scope for development here to support the kind of documentation. Again, it's hard to quantify quite the effect that sites like stack overflow, and indeed the flash bombing of the site with R, but their foundational role in proving foundations for which a knowledge exchange community can be built upon. 
-
-
-
-
-Clearly there is a lot well deserved effort into Guidelines of Best Practice and documentation, and we feel good foundations are being laid, for example the Netherlands eScience Centre Guide. With all these, building upon rather than duplicating would serves us well. From there, as Research Software engineers we can support by customisable templating.
-
-
-The beauty of many such tools are beginning to crossover into self-documentation. Great moderators can channel useful discussions on chat channels to better curated discussion boards. 
-
-
-
+Having said all this, it is important to note that community documentation can take many forms, including blogs, wikis, READMEs, discussion boards and sites like stackoverflow.  Indeed, while hard to quantify, the effect of [flashbombing stackoverflow with R questions](http://www.decisionsciencenews.com/2009/09/03/r-flashmob-2-tuesday-8-september-2009/) was foundational to the R knowledge base available on the web.
 
 
 #### Actively fostering engagement and participation
@@ -98,10 +89,8 @@ But to make researchers effective nodes, it's important not to neglect the devel
  
  
 #### Events!
- 
- 
 
-The important is to provide variety and rhythm.
+Communities are above all SOCIAL so bringing people together through events is vital! The important is to provide variety and rhythm.
  
 There is no doubt that the RSE conferences have been a huge spring board for the RSE community. Traditional venues for knowledge exchange and network building are still important and the NEUBIAS conferences also demonstrate that it is important to provide these opportunities for technical disciplines of science. 
 
