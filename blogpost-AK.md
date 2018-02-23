@@ -2,7 +2,7 @@
 
 ## Background
 
-So many of us were fired up by the [UK RSE initiative](http://rse.ac.uk) and the spread to more European Countries. The spark for this particular meeting started at the [2nd RSE conference](http://rse.ac.uk/conf2017/). For me, the initiatives described by [Toby Hodges](https://twitter.com/tbyhdgs) at [EMBL](https://www.embl.de/) and [Tobias Schlauch](https://twitter.com/TobiasSchlauch) at the [DLR](http://www.dlr.de/sc/en/desktopdefault.aspx/tabid-1177/) had been two of my favourite talks and motivated me to find out more. I kept in touch with Toby and we informally swapped notes over online meetings. In the meantime Toby and Tobias had already been synthesising some of their experiences, the results of with can be found in this [SSI blogpost](https://www.software.ac.uk/blog/2017-12-13-encouraging-good-software-development-practice-research-teams). I was delighted by such positive outcome but was slightly saddened by some of the results of the [German RSE](http://www.de-rse.org/en/) survey presented by [Stephan Janosch at FORCE17](http://www.de-rse.org/en/blog.html).
+So many of us were fired up by the [UK RSE initiative](http://rse.ac.uk) and it's spread throughout further European Countries. The spark for this particular meeting started at the [2nd RSE conference](http://rse.ac.uk/conf2017/). For me, the initiatives described by [Toby Hodges](https://twitter.com/tbyhdgs) at [EMBL](https://www.embl.de/) and [Tobias Schlauch](https://twitter.com/TobiasSchlauch) at the [DLR](http://www.dlr.de/sc/en/desktopdefault.aspx/tabid-1177/) had been two of my favourite talks and motivated me to find out more. I kept in touch with Toby and we informally swapped notes over online meetings. In the meantime Toby and Tobias had already been synthesising some of their experiences, the results of with can be found in this [SSI blogpost](https://www.software.ac.uk/blog/2017-12-13-encouraging-good-software-development-practice-research-teams). I was delighted by such positive outcome but was slightly saddened by some of the results of the [German RSE](http://www.de-rse.org/en/) survey presented by [Stephan Janosch at FORCE17](http://www.de-rse.org/en/blog.html).
 
 ![](assets/vibes.png)
 
@@ -22,21 +22,19 @@ _Clockwise from bottom-left: Anna Krystalli, Stefan Helfrich, Toby Hodges, Steph
 
 Toby Hodges, Malvika Sharan, and Georg Zeller shared experiences from EMBL Bio-IT, with a brief appearance (via video call) from Aidan Budd to provide details of the early days; Michael representing the DLR took Tobias' place who sadly could not join; Stefan Janosch brought experiences in a number of initiatives, spanning from his local institution Max Planck Institute of Molecular Cell Biology and Genetics, via the Dresden Concept, a research alliance among 24 Dresden based research institutions and at the national level, to the de-RSE network of German RSEs; Stefan Helfrich, an excellent impromptu addition resulting from Toby's involvement in [the Carpentries' mentorship groups program](https://github.com/carpentries/mentoring/tree/master/mentoring-groups), represented the NEUBIAS network of image analysts.  
 
-My own interest came from exploiting the literature on **communities of practise** for a proposal I was writing and it struck me that I'd already had experience of some very successful examples of such communities. As a member of the [Mozilla Open Leaders mentorship program](https://mozilla.github.io/leadership-training/), the [rOpenSci](https://ropensci.org/) and wider [R programming community](https://www.r-project.org/) but also more locally as a co-organiser of the R Users group, we've also recently been trying to apply many of these ideas on a cross-departmental team charged with building community around data visualisation across the University of Sheffield.
+My own interest came from exploring the literature on **communities of practise** for a proposal I was writing and it struck me that I'd already had experience of some very successful such examples. As a member of the [Mozilla Open Leaders mentorship program](https://mozilla.github.io/leadership-training/), the [rOpenSci](https://ropensci.org/) and wider [R programming community](https://www.r-project.org/) but also more locally as a co-organiser of the R Users group, we've also recently been trying to apply many of these ideas on a cross-departmental team charged with building community around data visualisation across the University of Sheffield.
 
 The role of a community builder or manager is to facilitate a domain specific platform, bringing outsiders in through practice and participation. Their magic lies in the social capital they create, the network of collaborative relationships and a shared, codified repertoire of best practice, supplemented by channels of tacit knowledge flow.
 
+Some of the most successful modern communities of practice are digital open source communities. They leverage the internet and digital tools to codify, document, develop, share and communicate community knowledge, expand networks and culture, and actively invite and encourage participation. In turn they have made the interenet the rich place it is today. As community builders hoping seeking to facilitate broad culture change and capacity building in computational research practice, there is much to emulate from open source approaches. But once we've showing our researchers some of the tools at their disposal, how to use them and some best practice guidelines, success depends very much on their response to the challenge we are effectively posing, articulated in the intro to [**open advice**]():
+
 > Yes, users. Even if you did not realize it or "never signed up for no community," you in fact are already a part of this community. The question is whether you'll choose to participate actively.
 
-Some of the most successful modern communities of practice are digital open source communities. They leverage the internet and digital tools to codify, document, develop, share and communicate community knowledge, expand networks and culture, and actively invite and encourage participation. 
-
-In our quest to spread better computational practice across research as the community facilitators, it is clear that we need to support each other, make the most of our efforts and look to open source communities for inspiration on how to facilitate change (not ignoring the irony that the internet itself was built for scientists to share information and with industry constantly pied piping away skills and talent!). 
-
-The motivation of this meeting was to swap notes on what we've tried already to build community, what worked particularly well and identify challenges and steps for the future. 
-
-*Please note that the examples and people mentioned in this blog are by no means exhaustive*. Here we try and pull together some recurring threads in our experiences.
+A lot more is possible if they are willing to participate.
 
 ## On the Day
+
+The motivation for this meeting was to swap notes on what we've tried already to build community, what worked particularly well and identify challenges and steps for the future. *Please note that the examples and people mentioned in this blog are by no means exhaustive*. Here we try and pull together some recurring threads in our experiences.
 
 ### what works
 
@@ -55,58 +53,79 @@ This should be close to the first step in building any community and is imperati
 
 #### Effective communication channels
 
-> Community == communication
+Community == communication
 
-Important for both the transfer of information, particularly of tacit knowledge, but also be social to foster collaborative relationships so will likely be multi-pronged. Across the various initiatives, from the mailing lists, google groups, slack channels, all forms of approaches have been tried.
+Effective communication channels are vital for both the transfer and processing of information, particularly of tacit knowledge, but also for fostering social, collaborative relationships. To be successful, they'll need to be diverse, including the option for private communication, but to be most effective they're better when they are integrated. Across the various initiatives, approaches tried include mailing lists, slack channels, google groups and other discussion forums.
 
-An excellent example is the [mattermost](https://about.mattermost.com/) based internal chat system, developed by the community members of Bio-IT for the communication within the organisation. The control and privacy is a big benefit of this approach but can be difficult to communicate with the outside. More open channels like [Slack](https://slack.com) that are being successfully used to power all sorts of open source and data science communities including the UK RSE are really important for making people feel connected to each other. The beauty of many such tools are beginning to crossover into self-documentation. Blogs and Discussion boards, whether through google groups or the awesome [discourse](https://www.discourse.org/) boards used, for example, by [rOpenSci](https://discuss.ropensci.org/). Great moderators can channel useful discussions on chat channels to better curated discussion boards. 
+An excellent example is the [mattermost](https://about.mattermost.com/) based internal chat system, developed by the community members of Bio-IT for the communication within the organisation. The control of the features and privacy of the system is a huge driver of adapting it to best serving the community. Coupled with an internally hosted gitlab based repository system, they've managed to build a thriving complementary online community actively engaged in sharing, co-developing, reviewing and discussing their software. The only drawbacks are that it can be difficult to open up discussion to the outside world. 
+
+But it's important to note that it's often good to signpost between communities. For example, for R questions beginners might have, I would unhesitantly guide learners to the [R for Data Science (#R4DS)]() slack community. The 800+ strong slack team of mentors and learners is a constant hive of discussion and trouble shouting while worthing through [R for Data Science](). For slightly more technical questions, I might guide someone to the [rOpenSci]() [slack community]() or the [rOpenSci](https://discuss.ropensci.org/) or [Rstudio]() discussion boards (powered by another nice open source community building resource.
+
 
 #### Codifying and documenting community practice. Tooling
 
-Beyond trading stories however, there is a need for foundational tools and documentation codifying best practice and forming and forming a foundational resource from which best practice can be codified and built on. This includes blogs, discussion forums, white papers and standards. There is likely much scope for development here to support the kind of documentation. We are all eagerly awaiting the translation of the DLR documentation materials into English. They had a really interesting concept of a tiered level of application classes, each according to the research project scope and size with its own documentation recommendations, as well a minimum requirement for all software.
-
-Again, it's hard to quantify quite the effect that sites like stack overflow, and indeed the flash bombing of the site with R, but their foundational role in proving foundations for which a knowledge exchange community can be built upon. 
-
-
-The DLR approach is a particular great example of how codification through guidelines of practice and community practice feedback into each other. While tasked with developing a framework for sustainable software development, the group work with contacts at each institute of the DLR from which they gain feedback on the direction of both the requirement for guidelines, new tools and training. 
-They make use of wikis, but also check sheets in a variety of formats (eg markdown & word) linked to reasoning and further advice next to each point. Actually looks very similar to the rOpenSci on boarding review checklist. 
+A foundational aspect of building of a community of practice is the codification and dissemination of standards and guidelines. The DLR approach is a particular great example. They make use of wikis and check lists in a variety of formats (eg markdown & word) to help guide software development and follow a tiered level approach to recommendations, as well as a minimum requirement for all software. They are determined by a project's application class, dependent on the research project scope and size.  linked to reasoning and further advice next to each point.
 
 ![](assets/ts-guidelines.png)
 
+community practice feedback into each other.While tasked with developing a framework for sustainable software development, the group work with contacts at each institute of the DLR from which they gain feedback on the direction of both the requirement for guidelines, new tools and training. 
+
+We are all eagerly awaiting the translation of the DLR documentation materials into English.
+
+Community documentation is actually much broader than that and can take many forms, including blogs, wikis, READMEs and websites, discussion forums, papers and standards. There is likely much scope for development here to support the kind of documentation. Again, it's hard to quantify quite the effect that sites like stack overflow, and indeed the flash bombing of the site with R, but their foundational role in proving foundations for which a knowledge exchange community can be built upon. 
+
+
+
 
 Clearly there is a lot well deserved effort into Guidelines of Best Practice and documentation, and we feel good foundations are being laid, for example the Netherlands eScience Centre Guide. With all these, building upon rather than duplicating would serves us well. From there, as Research Software engineers we can support by customisable templating.
+
+
+The beauty of many such tools are beginning to crossover into self-documentation. Great moderators can channel useful discussions on chat channels to better curated discussion boards. 
+
+
+
+
 
 #### Actively fostering engagement and participation
 
 Successful communities thrive on diverse contributions from a wide range of their members. Most of the attendees at this particular meeting were representing the efforts of a much broader selection of contributors to their respective communities. The role of a community coordinator is often to encourage and facilitate the voluntary efforts of the larger group, and it is this engagement across the whole community that, in turn, produces the most amazing results. To get some idea of the number of individual contributions that it can take to create a successful community, check out the Acknowledgments slide from [Toby's talk at RSE17](http://rse.ac.uk/conf2017/wp-content/uploads/sites/2/2017/11/Bioinformatics_Community_Hodges_RSE17_2.pdf)!
 
-A lot of this however falls in the least recognised and appreciated category. The importance of community catalysts
+A lot of this however falls in the least recognised and appreciated category. The importance of community catalysts.
+Friendly, supportive active community catalysts make a huge impact, and can be the deciding factor on whether a community succeeds. It's no surprise we routinely ended up back at Bio-IT t~0~, and **Aidan Budd**'s initial vision and drive and ability to be the hub that drew other people together. Other great examples include **Maëlle Salmon** ([@ma_salmon](https://twitter.com/ma_salmon)) as an **rOpensci** package review editor, **Stefanie Butland** ([@StefanieButland](https://twitter.com/StefanieButland)) as **rOpensci** community manager and **Jesse Maegan** [@kierisi](https://twitter.com/kierisi) for establishing [#R4DS](https://medium.com/@kierisi/r4ds-january-challenge-69324561ef2b). 
 
-Aidan Budd. We routinely ended up back at t0, being inspired by Aidan Budd's vision and drive. A catalysing force as a driver of community building initiative is an invaluable resource and I can think of many I mentioned 
-
-
+Ultimately, though, it's about member participation, so the superpower of great community catalysts is to actively acknowledge and promote member contributions and help them share their stories, ideas and questions. We could all benefit from aspiring to be better catalysts ourselves.
 
 #### Training
 
  
 We all identified providing training, developing materials and workshops still fundamental to baseline computational skill development. Initiatives like the Carpentries or Elixir are making huge strides in providing scaling training foundations. We also all recognised the importance of flexibility and hearing from your community and being able to adaptively develop training according to identified domain needs. 
 
-But to make researchers effective nodes, we feel it's important to provide training for the development of digital citizenship skills. Collaboration, leadership, mentorship and even finding information and getting help are underpin emergent community social capital. The ability to access and recycle material, share through and post to the web are incredibly empowering in their own right. 
+But to make researchers effective nodes, it's important not to neglect the development of digital citizenship skills. The ability to access and recycle material, share through and post to the web are incredibly empowering, but only up to a point. Being able to effectively propose an idea, share it, build it in the open, get feedback, onboard collaborators and incorporate contribution underpin the emergent community social capital and knowldege flow we see in open source communities today. So skills in collaboration, leadership, mentorship and even asking for and giving help are critical. Even more so, skills in just being a good peer. An ability to iterate in response to user feedback requires humility, openness and transparency. As community leaders, we set the precedent and the tone for any community so effective leadership must be driven from the position of a peer. 
  
  
 #### Events!
  
  
-Done well, many of these activities can be successful also online. For example, The Mozilla Open Leaders mentorship programme, the Global Sprint or Hacktoberfest are great examples of online mobilisation of activity.
 
- But bringing people together in physical space still the most effective way of building community.
+The important is to provide variety and rhythm.
  
- - conferences: There is no doubt that the RSE conferences have been a huge spring board for the RSE community. Traditional venues for knowledge exchange and network building are still important and the NEUBIAS conferences also demonstrate that it is important to provide these opportunities for technical disciplines of science. But we could also push forward by carving out workshops and sessions at larger scientific conferences. We need to continue being present in research, interacting with researchers and understanding the sorts of questions they are trying to answer and the digital materials they are using to do so. 
- - hacks: I love hacks! Academic "fun" hacks can be really fun but also very effective in getting people to learn/practice new things and tackle challenges in their field without pressure. Food and drink always helps! With the dataviz team we regularly schedule work hacks, where we hammer out a bit of work, or prototype something. But jumping onto wider events, like running a Global Sprint site or some hacktoberfest sessions. They are great opportunities to practice more fundamental skills like collaborating online and get a feel for open source.
+There is no doubt that the RSE conferences have been a huge spring board for the RSE community. Traditional venues for knowledge exchange and network building are still important and the NEUBIAS conferences also demonstrate that it is important to provide these opportunities for technical disciplines of science. 
+
+ hacks: I love hacks! Academic "fun" hacks can be really fun but also very effective in getting people to learn/practice new things and tackle challenges in their field without pressure. Food and drink always helps! With the dataviz team we regularly schedule work hacks, where we hammer out a bit of work, or prototype something. 
+ 
+ But jumping onto wider events, like running a Global Sprint site or some hacktoberfest sessions. They are great opportunities to practice more fundamental skills like collaborating online and get a feel for open source. You can make your own events more accessible by providing ways for remote participation. 
+
+ 
  - coding clubs
-Great ways to provide opportunity to learn, practice (after training?) and get feedback. Works best when sessions are focused, like working through a book, training program or even blogposts. Relying on attendees to provide content can lead to dwindling engagement. I'd also like to plug the Advent of Code as a great learning opportunity. 
+Great ways to provide opportunity to learn, practice (after training?) and get feedback.
 
 Note that local events can now relatively easily open up proceedings. Live streaming or recording and posting events and setting up open, live communication channels around the event are great ways to engage remote participants and indeed, I've recently been calling in to the EMBL Bio-IT [D3.js coding club]()!
+
+ 
+ Streaming or recording events, allowing call ins or even just opening a gitter channel or posting links to live documents could help broaden engagement.
+ But bringing people together in physical space still the most effective way of building community.
+ 
+ 
 
 #### Buy in from upper management
 
@@ -159,6 +178,8 @@ So, it's key to open our discussions up. In the coming weeks, Toby and Malvika h
 ### iterating
 
 - measuring the impact, in particular the QUALITY of the code, something the DLR had had to grapple with more so due to the production nature of alot of their software.
+
+> two types of community man- agers; those who go out and give presentations and wave their hands around talking about a product or service, and those who work with a community of volunteers to help them to have a fun, productive and enjoyable collaborative experience. 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">What it takes to build a successful, supportive and responsive bioinformatics community by <a href="https://twitter.com/tbyhdgs?ref_src=twsrc%5Etfw">@tbyhdgs</a> <br><br>❌ ban loneliness in research ❌ <a href="https://twitter.com/hashtag/RSE17?src=hash&amp;ref_src=twsrc%5Etfw">#RSE17</a> <a href="https://t.co/VdIeZS8Gyj">pic.twitter.com/VdIeZS8Gyj</a></p>&mdash; annakrystalli (@annakrystalli) <a href="https://twitter.com/annakrystalli/status/906139603140214785?ref_src=twsrc%5Etfw">September 8, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
