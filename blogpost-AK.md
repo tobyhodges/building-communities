@@ -20,7 +20,7 @@ And how better to answer it than to get around a table and swap notes on our exp
 <br>
 _Clockwise from bottom-left: Anna Krystalli, Stefan Helfrich, Toby Hodges, Stephan Janosch, Michael Meinel, Malvika Sharan_
 
-Toby Hodges, Malvika Sharan, and Georg Zeller shared experiences from EMBL Bio-IT, with a brief appearance (via video call) from Aidan Budd to provide details of the early days; Michael representing the DLR took Tobias' place who sadly could not join; Stefan Janosch brought experiences in a number of initiatives, spanning from his local institution Max Planck Institute of Molecular Cell Biology and Genetics, via the Dresden Concept, a research alliance among 24 Dresden based research institutions and at the national level, to the de-RSE network of German RSEs; Stefan Helfrich, an excellent impromptu addition resulting from Toby's involvement in [the Carpentries' mentorship groups program](https://github.com/carpentries/mentoring/tree/master/mentoring-groups), represented the NEUBIAS network of image analysts.  
+Toby Hodges, Malvika Sharan, and Georg Zeller shared experiences from EMBL Bio-IT, with a brief appearance (via video call) from Aidan Budd to provide details of the early days; Michael representing the DLR took Tobias' place who sadly could not join; Stefan Janosch brought experiences in a number of initiatives, spanning from his local institution Max Planck Institute of Molecular Cell Biology and Genetics ([MPI-CBG](https://www.mpi-cbg.de/en/home/), via the [Dresden Concept](http://www.dresden-concept.de/en/home.html), a research alliance among 24 Dresden based research institutions and at the national level, to the de-RSE network of German RSEs; Stefan Helfrich, an excellent impromptu addition resulting from Toby's involvement in [the Carpentries' mentorship groups program](https://github.com/carpentries/mentoring/tree/master/mentoring-groups), represented the Network of European Bioimage Analysts ([NEUBIAS](https://eubias.org/NEUBIAS/)) as well as German BioImaging ([GerBI](http://germanbioimaging.org)).
 
 My own interest came from exploring the literature on **communities of practise** for a proposal I was writing and it struck me that I'd already had experience of some very successful such examples. As a member of the [Mozilla Open Leaders mentorship program](https://mozilla.github.io/leadership-training/), the [rOpenSci](https://ropensci.org/) and wider [R programming community](https://www.r-project.org/) but also more locally as a co-organiser of the R Users group, we've also recently been trying to apply many of these ideas on a cross-departmental team charged with building community around data visualisation across the University of Sheffield.
 
@@ -42,20 +42,18 @@ The motivation for this meeting was to swap notes on what we've tried already to
 
 This should be close to the first step in building any community and is imperative for adding value which in turn is what drives voluntary participation.
 
-*And it all started with a survey*: we all started with some form of surveying our communities. An important aspect of surveying for information is to find out both where the community is at and where they want to go. Activities can then be targeted towards the wishes of the community and a higher rate of engagement and voluntary participation.
-
-**more detail on what the NEUBIAS COST action funding was used for
-
-- NEUBIAS H2020 COST action funding
-- EMBL - high level funding and top level buy in!
-- Sheffield - Mike Croucher's EPSRC Fellowship
-- DLR: getting the right people in the room: community above individuals
+*And it all started with a survey*: we all started with some form of surveying our communities. An important aspect of surveying for information is to find out both where the community is at and where they want to go. Activities can then be targeted towards the wishes and needs of the community to generate a higher rate of engagement and voluntary participation.
 
 #### Effective communication channels
 
 Community == communication
 
 Effective communication channels are vital for both the transfer and processing of information, particularly of tacit knowledge, but also for fostering social, collaborative relationships. To be successful, they'll need to be diverse, including the option for private communication, but to be most effective they're better when they are integrated. Across the various initiatives, approaches tried include mailing lists, slack channels, google groups and other discussion forums.
+
+More open channels like [Slack](https://slack.com) and [Glip](https://glip.com) are being successfully used to power all sorts of open source and data science communities including the UK RSE are really important for making people feel connected to each other. The beauty of many such tools are beginning to crossover into self-documentation due to message archiving and searchability. Discussion boards, whether through Google groups or the awesome [discourse](https://www.discourse.org/), e.g., [rOpenSci](https://discuss.ropensci.org/), can balance the instant nature of chat-based systems. Great moderators can channel useful discussions on chat channels to better curated discussion boards.
+
+#### Codifying and documenting community practice. Tooling
+
 
 An excellent example is the [mattermost](https://about.mattermost.com/) based internal chat system, developed by the community members of Bio-IT for the communication within the organisation. The control of the features and privacy of the system is a huge driver of adapting it to best serving the community. Coupled with an internally hosted gitlab based repository system, they've managed to build a thriving complementary online community actively engaged in sharing, co-developing, reviewing and discussing their software. The only drawbacks are that it can be difficult to open up discussion to the outside world. 
 
@@ -66,7 +64,9 @@ But it's important to note that it's often good to signpost between communities.
 
 A foundational aspect of building of a community of practice is the codification and dissemination of standards and guidelines. The DLR approach is a particular great example. They make use of wikis and check lists in a variety of formats (eg markdown & word) to help guide software development and follow a tiered level approach to recommendations, as well as a minimum requirement for all software. They are determined by a project's application class, dependent on the research project scope and size.  linked to reasoning and further advice next to each point.
 
+
 ![](assets/ts-guidelines.png)
+
 
 community practice feedback into each other.While tasked with developing a framework for sustainable software development, the group work with contacts at each institute of the DLR from which they gain feedback on the direction of both the requirement for guidelines, new tools and training. 
 
@@ -116,12 +116,12 @@ There is no doubt that the RSE conferences have been a huge spring board for the
  But jumping onto wider events, like running a Global Sprint site or some hacktoberfest sessions. They are great opportunities to practice more fundamental skills like collaborating online and get a feel for open source. You can make your own events more accessible by providing ways for remote participation. 
 
  
- - coding clubs
-Great ways to provide opportunity to learn, practice (after training?) and get feedback.
+
+ - *conferences*: There is no doubt that the RSE conferences have been a huge spring board for the RSE community. Traditional venues for knowledge exchange and network building are still important and the NEUBIAS conferences also demonstrate that it is important to provide these opportunities for technical disciplines of science.. But jumping onto wider events, like running a Global Sprint site or some hacktoberfest sessions. They are great opportunities to practice more fundamental skills like collaborating online and get a feel for open source.
+ - *coding clubs*: Great ways to provide opportunity to learn, practice (after training?) and get feedback. Works best when sessions are focused, like working through a book, training program or even blogposts. 
+ - *training schools/learnathons*: Learnathons/Training schools are a great way to bring people together to learn and work on more advanced topics. Since lessons have to moderated/prepared by someone, those kind of events have the side-effect of bringing together not only learners but also trainers over a period of time that facilitates fruitful discussions.
 
 Note that local events can now relatively easily open up proceedings. Live streaming or recording and posting events and setting up open, live communication channels around the event are great ways to engage remote participants and indeed, I've recently been calling in to the EMBL Bio-IT [D3.js coding club]()!
-
- 
  Streaming or recording events, allowing call ins or even just opening a gitter channel or posting links to live documents could help broaden engagement.
  But bringing people together in physical space still the most effective way of building community.
  
@@ -131,9 +131,13 @@ Note that local events can now relatively easily open up proceedings. Live strea
 
 One of the key drivers of the longest standing and most developed communities is buy in and support form upper management. Bio-IT benefited by this being flagged early on in the process and lead to them now having nearly 8 years of well-resourced effort. Similarly, the DLR initiative was driven by first raising awareness in management level which subsequently lead to upper management support.
 
+**SH: The definition of upper management actually depends on how localized or how decentralized a community is. Sometimes there is nothing like an "upper management".
+
 #### Funding!
 
-Related to buy in is financial support of activities. At the very least, funding for dedicated community building personnel can provide an important start. e.g. EMBL and DLR and Mike Croucher's EPSRC Fellowship supported such roles.   
+Related to buy in is financial support of activities. At the very least, funding for dedicated community building personnel can provide an important start. e.g. EMBL and DLR and Mike Croucher's EPSRC Fellowship supported such roles. Since research is an inherently international and/or multi-organization endeavor, financial support from umbrella organization can be sought. The European Union, for instance, has established a programme (COST) for setting up international research networks. NEUBIAS has setup aforementioned events (conferences, training schools, short scientific exchanges) and networking activities from COST funding.
+
+Additional information can on funding schemes is described in [Eisfeld-Reschke J., Herb U., Wenzlaff K. (2014) Research Funding in Open Science. In: Bartling S., Friesike S. (eds) Opening Science. Springer, Cham](https://doi.org/10.1007/978-3-319-00026-8_16).
 
 ### continuing challenges?
 
@@ -158,8 +162,9 @@ Many of the activities are often undervalued and therefore difficult to attract 
 
 Time and again, and related to why these skills aren't appreciated, we find it difficult to measure and promote the effect of such community and capacity building efforts. Hard to link to publications. A particular difficulty raised by the DLR team is how to measure improvements in the **quality** of software produced. Ultimately, this is what determines whether research software is more dependable and indeed more reusable.
 
+**SH: I guess this is one of the important re-occuring schemes with respect to funding. How do we actually determine, if a community is successful in the context of a proposal/call.
+
 #### people still feel isolated (especially when disparate in physical location). This is particularly the case of the NEUBIAS disconnected (SJ & SH). Result:
-    
 
 > Because as Ḱevin Ottens rightly said during the Desktop Summit 2011 in Berlin: "Community building is family and friendship building."
 
