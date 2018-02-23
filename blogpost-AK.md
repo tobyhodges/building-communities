@@ -46,19 +46,13 @@ This should be close to the first step in building any community and is imperati
 
 #### Effective communication channels
 
-Community == communication
+**Community == communication**
 
-Effective communication channels are vital for both the transfer and processing of information, particularly of tacit knowledge, but also for fostering social, collaborative relationships. To be successful, they'll need to be diverse, including the option for private communication, but to be most effective they're better when they are integrated. Across the various initiatives, approaches tried include mailing lists, slack channels, google groups and other discussion forums.
-
-More open channels like [Slack](https://slack.com) and [Glip](https://glip.com) are being successfully used to power all sorts of open source and data science communities including the UK RSE are really important for making people feel connected to each other. The beauty of many such tools are beginning to crossover into self-documentation due to message archiving and searchability. Discussion boards, whether through Google groups or the awesome [discourse](https://www.discourse.org/), e.g., [rOpenSci](https://discuss.ropensci.org/), can balance the instant nature of chat-based systems. Great moderators can channel useful discussions on chat channels to better curated discussion boards.
-
-#### Codifying and documenting community practice. Tooling
-
+Effective communication channels are vital for both the transfer and processing of information, particularly of tacit knowledge, but also for fostering social, collaborative relationships. Across the various initiatives, approaches tried include mailing lists, [Slack](https://slack.com) and [Glip](https://glip.com) channels, google groups and other discussion forums. To be successful, they'll need to be diverse, including the option for private communication, but to be most effective they're better when they are integrated. 
 
 An excellent example is the [mattermost](https://about.mattermost.com/) based internal chat system, developed by the community members of Bio-IT for the communication within the organisation. The control of the features and privacy of the system is a huge driver of adapting it to best serving the community. Coupled with an internally hosted gitlab based repository system, they've managed to build a thriving complementary online community actively engaged in sharing, co-developing, reviewing and discussing their software. The only drawbacks are that it can be difficult to open up discussion to the outside world. 
 
-But it's important to note that it's often good to signpost between communities. For example, for R questions beginners might have, I would unhesitantly guide learners to the [R for Data Science (#R4DS)]() slack community. The 800+ strong slack team of mentors and learners is a constant hive of discussion and trouble shouting while worthing through [R for Data Science](). For slightly more technical questions, I might guide someone to the [rOpenSci]() [slack community]() or the [rOpenSci](https://discuss.ropensci.org/) or [Rstudio]() discussion boards (powered by another nice open source community building resource.
-
+But it's important to note that it's often good to signpost between communities. For example, for R questions beginners might have, I would unhesitantly guide learners to the [R for Data Science (#R4DS)]() slack community. The 800+ strong slack team of mentors and learners is a constant hive of discussion and trouble shouting while worthing through [R for Data Science](). For slightly more technical questions, I might guide someone to the [rOpenSci]() [slack community]() or the [rOpenSci](https://discuss.ropensci.org/) or [Rstudio]() discussion boards (powered by [discourse](https://www.discourse.org/), another nice open source community building resource).
 
 #### Codifying and documenting community practice. Tooling
 
