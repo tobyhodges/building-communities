@@ -68,7 +68,7 @@ Individual recommendations are linked to reasoning and further advice which help
 
 Clearly there is a lot well deserved effort into Guidelines of Best Practice and documentation, for example the Netherlands [eScience Centre Guide](https://guide.esciencecenter.nl/) is another great example. So it's important that we building upon such efforts rather than duplicating them and we feel that focusing on developing reusable, customisable templates to help guide best practice would serves us well.
 
-Having said all this, it is important to note that community documentation can take many forms, including blogs, wikis, READMEs, discussion boards and sites like stackoverflow.  Indeed, while hard to quantify, the effect of [flashbombing stackoverflow with R questions](http://www.decisionsciencenews.com/2009/09/03/r-flashmob-2-tuesday-8-september-2009/) was foundational to the R knowledge base available on the web.
+Having said all this, it is important to note that community documentation can take many forms, including blogs, wikis, READMEs, discussion boards and sites like stackoverflow. For example, while hard to quantify the effect of [flashbombing stackoverflow with R questions](http://www.decisionsciencenews.com/2009/09/03/r-flashmob-2-tuesday-8-september-2009/) back in 2009, there is no doubt it that, at the time, it represented a foundational online R knowledge base.
 
 
 #### Actively fostering engagement and participation
@@ -90,37 +90,29 @@ But to make researchers effective nodes, it's important not to neglect the devel
  
 #### Events!
 
-Communities are above all SOCIAL so bringing people together through events is vital! The important is to provide variety and rhythm.
- 
-There is no doubt that the RSE conferences have been a huge spring board for the RSE community. Traditional venues for knowledge exchange and network building are still important and the NEUBIAS conferences also demonstrate that it is important to provide these opportunities for technical disciplines of science. 
+Communities are above all social so bringing people together through events is vital! But to keep people engaged and maximise participation, good variety and rhythm are key.
 
- hacks: I love hacks! Academic "fun" hacks can be really fun but also very effective in getting people to learn/practice new things and tackle challenges in their field without pressure. Food and drink always helps! With the dataviz team we regularly schedule work hacks, where we hammer out a bit of work, or prototype something. 
- 
- But jumping onto wider events, like running a Global Sprint site or some hacktoberfest sessions. They are great opportunities to practice more fundamental skills like collaborating online and get a feel for open source. You can make your own events more accessible by providing ways for remote participation. 
+ Conferences are still a great place to get together and there is no doubt that the RSE conferences have been a huge spring board for the UK RSE community. The centrality of the [conference](http://eubias.org/NEUBIAS/neubias2020-conference/symposium2017-lisbon/) in the establishment of the NEUBIAS community speaks volumes about the importance for technical disciplines of science to have that space for knowledge exchange and network building. 
 
- 
+But there's a lot more fun we can have with events! For example my favourite thing to organise is hackathons! Academic "fun" hacks can be a sociable and effective way of getting people to learn/practice new things and tackle challenges in their field without pressure and with the support of others. They are great opportunities to practice more fundamental skills like using version control systems to collaborate online but themed hacks can delve into more specific things. For example, during the Reproducibility hackathons ([#ReproHack](http://rse.shef.ac.uk/blog/opencon_london/)) we organised as part of OpenCon Berlin (2016) and London (2017) satellite events, gave participants the opportunity to delve into other peoples code and get exposure to different approaches to making research reproducible.
 
- - *conferences*: There is no doubt that the RSE conferences have been a huge spring board for the RSE community. Traditional venues for knowledge exchange and network building are still important and the NEUBIAS conferences also demonstrate that it is important to provide these opportunities for technical disciplines of science.. But jumping onto wider events, like running a Global Sprint site or some hacktoberfest sessions. They are great opportunities to practice more fundamental skills like collaborating online and get a feel for open source.
- - *coding clubs*: Great ways to provide opportunity to learn, practice (after training?) and get feedback. Works best when sessions are focused, like working through a book, training program or even blogposts. 
- - *training schools/learnathons*: Learnathons/Training schools are a great way to bring people together to learn and work on more advanced topics. Since lessons have to moderated/prepared by someone, those kind of events have the side-effect of bringing together not only learners but also trainers over a period of time that facilitates fruitful discussions.
+Other more focused learning sessions like **coding clubs** and **training schools/learnathons** are great ways to bring people together to work on more advanced topics and get feedback. COding clubs work best when sessions are focused, like working through a book, training program or even blogposts. In the case of workshops, as materials have to moderated/prepared by someone, the events have the side-effect of bringing together not only learners but also trainers over a period of time that facilitates fruitful discussions.
 
-Note that local events can now relatively easily open up proceedings. Live streaming or recording and posting events and setting up open, live communication channels around the event are great ways to engage remote participants and indeed, I've recently been calling in to the EMBL Bio-IT [D3.js coding club]()!
- Streaming or recording events, allowing call ins or even just opening a gitter channel or posting links to live documents could help broaden engagement.
- But bringing people together in physical space still the most effective way of building community.
- 
- 
+Note that local events can now easily open up proceedings to remote participants. Streaming or recording events, allowing call ins or even just opening a gitter channel or posting links to live documents could help broaden engagement.
 
-#### Buy in from upper management
+Final top tip: Food and drink == always a winner! 
 
-One of the key drivers of the longest standing and most developed communities is buy in and support form upper management. Bio-IT benefited by this being flagged early on in the process and lead to them now having nearly 8 years of well-resourced effort. Similarly, the DLR initiative was driven by first raising awareness in management level which subsequently lead to upper management support.
+
+
+#### Buy in from upper management + funding
+
+One of the key drivers of the longest standing and most developed communities is buy in and support form upper management early on. Bio-IT benefited by a need for the initiative being flagged early on and led to them now having nearly 8 years of well-resourced effort under their belt. Similarly, the DLR initiative was driven by first raising awareness at upper management level which subsequently lead to upper management support.
 
 **SH: The definition of upper management actually depends on how localized or how decentralized a community is. Sometimes there is nothing like an "upper management".
 
-#### Funding!
+Related to buy in is financial support of activities. At the very least, funding for dedicated community building personnel can provide an important start. e.g. EMBL and DLR <- want to expand on the funding?> and Mike Croucher's EPSRC Fellowship supported such seed roles. Since research is an inherently international and/or multi-organization endeavor, financial support from umbrella organization can also be sought. The European Union, for instance, has established a programme (COST) for setting up international research networks which supported costs associated with NEUBIAS setup, events (conferences, training schools, short scientific exchanges) and networking activities. Additional information on funding schemes is described in [Eisfeld-Reschke J., Herb U., Wenzlaff K. (2014) Research Funding in Open Science. In: Bartling S., Friesike S. (eds) Opening Science. Springer, Cham](https://doi.org/10.1007/978-3-319-00026-8_16).
 
-Related to buy in is financial support of activities. At the very least, funding for dedicated community building personnel can provide an important start. e.g. EMBL and DLR and Mike Croucher's EPSRC Fellowship supported such roles. Since research is an inherently international and/or multi-organization endeavor, financial support from umbrella organization can be sought. The European Union, for instance, has established a programme (COST) for setting up international research networks. NEUBIAS has setup aforementioned events (conferences, training schools, short scientific exchanges) and networking activities from COST funding.
-
-Additional information can on funding schemes is described in [Eisfeld-Reschke J., Herb U., Wenzlaff K. (2014) Research Funding in Open Science. In: Bartling S., Friesike S. (eds) Opening Science. Springer, Cham](https://doi.org/10.1007/978-3-319-00026-8_16).
+<br>
 
 ### continuing challenges?
 
