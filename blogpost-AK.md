@@ -114,24 +114,20 @@ Related to buy in is financial support of activities. At the very least, funding
 
 <br>
 
-### continuing challenges?
+### continuing challenges.
 
 #### moving from a top down to a decentralised model. 
 
-Ie a self-sustaining community. volunteers to contribute content. It is not news to anyone that one of the most challenging aspects of sustaining community is enlisting contributions, mainly in the form of contributions. 
+It is not news to anyone that one of the most challenging aspects of sustaining community is enlisting contributions, mainly in the form of contributions. Challenges to peoples time and the need for support and encouragement and non trivial work is required to foster welcoming inclusive envrironments, key to motivating participation.
 
-To a certain extent, dedicated seed staff will likely be an important determinant of whether a community succeeds. But making the most of available tools can really help with the decentralisation. Automation, reusable templates and open sharing of resources can really help with compiling and spreading best practice and useful tools while the plethora of communication means put to good use can break down physical barriers and link people into communities while, if done in the open, also acting as an archive. 
+To a certain extent, dedicated seed staff will likely continue to be an important determinant on the probability a community building initiative succeeds. But making the most of the available tools and practices we've been discussing (automation, open, reusable materials, good communication channels) can really aid decentralisation. But to sustain momentum, mechanisms to empower and recruit leaders are required.
 
 #### lack of funding & recognition.
 
-- Important point I found interesting:
-    * both (Toby) EMBL and (Tobias) DLR had not realised how far ahead they were in the areas they were leading. 
+Something I found really interesting was that both (Toby) EMBL and (Tobias) DLR had not realised how far ahead their intitiaves were in the areas they were leading. Tobias said he just saw it as part of his job and assumed everyone did the same. To me, this reflects how many such activities are often undervalued. As such, where they're supported, there's not the tendendency to shout about it and when they're not, no one sees a problem leading to difficulties attracting funding.
 
-Tobias just saw it as part of his job and assumed everyone did the same.
+RSE UK, RSE de and what is slowly but surely developing into an international initiative (RSE Int) have definitely been a big driver of raising awareness. Our experiences here it Sheffield with having 2 of the first EPSRC fellows has made the benefits of such funding and recognition tangible and easier to promote in time. But there is a long way to go before this becomes widespread throughout research institutions so, until then this will likely be a continuing battle.
 
-RSE UK has definitely been a big driver of raising awareness and our experiences here it Sheffield with having 2 of the first fellows has shown it can work as a start. But ultimately without buying and support for activities that push forward, it's hard to build momentum. 
-
-Many of the activities are often undervalued and therefore difficult to attract funding.
 
 #### Measuring success.
 
