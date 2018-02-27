@@ -92,13 +92,17 @@ But to make researchers effective nodes, it's important not to neglect the devel
 
 Communities are above all social so bringing people together through events is vital! But to keep people engaged and maximise participation, good variety and rhythm are key.
 
- Conferences are still a great place to get together and there is no doubt that the RSE conferences have been a huge spring board for the UK RSE community. The centrality of the [conference](http://eubias.org/NEUBIAS/neubias2020-conference/symposium2017-lisbon/) in the establishment of the NEUBIAS community speaks volumes about the importance for technical disciplines of science to have that space for knowledge exchange and network building. 
+Conferences are still a great place to get together and there is no doubt that the RSE conferences have been a huge spring board for the UK RSE community. The centrality of the [conference](http://eubias.org/NEUBIAS/neubias2020-conference/symposium2017-lisbon/) in the establishment of the NEUBIAS community speaks volumes about the importance for technical disciplines of science to have that space for knowledge exchange and network building. 
 
 But there's a lot more fun we can have with events! For example my favourite thing to organise is hackathons! Academic "fun" hacks can be a sociable and effective way of getting people to learn/practice new things and tackle challenges in their field without pressure and with the support of others. They are great opportunities to practice more fundamental skills like using version control systems to collaborate online but themed hacks can delve into more specific things. For example, during the Reproducibility hackathons ([#ReproHack](http://rse.shef.ac.uk/blog/opencon_london/)) we organised as part of OpenCon Berlin (2016) and London (2017) satellite events, gave participants the opportunity to delve into other peoples code and get exposure to different approaches to making research reproducible.
 
 Other more focused learning sessions like **coding clubs** and **training schools/learnathons** are great ways to bring people together to work on more advanced topics and get feedback. COding clubs work best when sessions are focused, like working through a book, training program or even blogposts. In the case of workshops, as materials have to moderated/prepared by someone, the events have the side-effect of bringing together not only learners but also trainers over a period of time that facilitates fruitful discussions.
 
 Note that local events can now easily open up proceedings to remote participants. Streaming or recording events, allowing call ins or even just opening a gitter channel or posting links to live documents could help broaden engagement.
+
+I'll leave you with this quote from open advice:
+
+> two types of community managers; those who go out and give presentations and wave their hands around talking about a product or service, and those who work with a community of volunteers to help them to have a fun, productive and enjoyable collaborative experience. 
 
 Final top tip: Food and drink == always a winner! 
 
@@ -131,13 +135,10 @@ RSE UK, RSE de and what is slowly but surely developing into an international in
 
 #### Measuring success.
 
-Time and again, and related to why these skills aren't appreciated, we find it difficult to measure and promote the effect of such community and capacity building efforts. Hard to link to publications. A particular difficulty raised by the DLR team is how to measure improvements in the **quality** of software produced. Ultimately, this is what determines whether research software is more dependable and indeed more reusable.
+Time and again, and related to why these skills aren't appreciated, we find it difficult to measure and promote the effect of community and capacity building efforts in computational research skills. They can be hard to link to publications. A particular difficulty raised by the DLR team is how to measure improvements in the **quality** of software researchers produce. Ultimately, this is what determines whether research software is more dependable and indeed more reusable.
 
-**SH: I guess this is one of the important re-occuring schemes with respect to funding. How do we actually determine, if a community is successful in the context of a proposal/call.
+Equally, as Ḱevin Ottens rightly said during the Desktop Summit 2011 in Berlin: "Community building is family and friendship building." How do we actually measure this? How do we judge whether a community building project has been successful in the context of a proposal/call? Such difficulty in measuring success feeds into to funding challenges. 
 
-#### people still feel isolated (especially when disparate in physical location). This is particularly the case of the NEUBIAS disconnected (SJ & SH). Result:
-
-> Because as Ḱevin Ottens rightly said during the Desktop Summit 2011 in Berlin: "Community building is family and friendship building."
 
 ## Future
 
@@ -155,7 +156,7 @@ So, it's key to open our discussions up. In the coming weeks, Toby and Malvika h
 
 - measuring the impact, in particular the QUALITY of the code, something the DLR had had to grapple with more so due to the production nature of alot of their software.
 
-> two types of community man- agers; those who go out and give presentations and wave their hands around talking about a product or service, and those who work with a community of volunteers to help them to have a fun, productive and enjoyable collaborative experience. 
+
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">What it takes to build a successful, supportive and responsive bioinformatics community by <a href="https://twitter.com/tbyhdgs?ref_src=twsrc%5Etfw">@tbyhdgs</a> <br><br>❌ ban loneliness in research ❌ <a href="https://twitter.com/hashtag/RSE17?src=hash&amp;ref_src=twsrc%5Etfw">#RSE17</a> <a href="https://t.co/VdIeZS8Gyj">pic.twitter.com/VdIeZS8Gyj</a></p>&mdash; annakrystalli (@annakrystalli) <a href="https://twitter.com/annakrystalli/status/906139603140214785?ref_src=twsrc%5Etfw">September 8, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
