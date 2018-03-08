@@ -106,6 +106,16 @@ Welcoming, supportive active community catalysts [can have a huge impact in sett
 
 Ultimately, though, it's about member participation, so the superpower of great community catalysts is to actively acknowledge and promote member contributions and help them share their stories, ideas and questions. And while this all may come more naturally to some, we can all aspire to be better community catalysts.
 
+I'll leave you with another quote from open advice, this time by [Jono Bacon]():
+
+>  I have talked about there being two types of community managers;
+those who go out and give presentations and wave their hands
+around talking about a product or service, and those who work with
+a community of volunteers to help them to have a fun, productive
+and enjoyable collaborative experience. I am more interested in the
+latter – I feel that is what a real community manager does. 
+
+
 #### Training
 
  
@@ -116,19 +126,15 @@ But to for both individuals and the community to reap the benefits of technical 
  
 #### Events!
 
-Communities are above all social so bringing people together through events is vital! But to keep people engaged and maximise participation, good variety and rhythm are key.
+Communities are above all social so bringing people together through events is vital. To keep people engaged and maximise participation, good variety and rhythm are key.
 
-Conferences are still a great place to get together and there is no doubt that the RSE conferences have been a huge spring board for the UK RSE community. The centrality of the [conference](http://eubias.org/NEUBIAS/neubias2020-conference/symposium2017-lisbon/) in the maintenance of the NEUBIAS community speaks volumes about the importance for technical disciplines of science to have that space for knowledge exchange and network building. Since members of the NEUBIAS community are spread all over Europe with small communities (if at all) at their local institutes, an annual conference offers great possibilities to get work done. This is especially important since many members are in scientific support positions with little time to get involved in community activities during working hours. Conferences attendence, however, implies blocked time on the calendar and offers the chance to collaborate "offline".
+Conferences are still a great place to get together and there is no doubt that the RSE conferences have been a huge spring board for the UK RSE community and beyond. The centrality of the [conference](http://eubias.org/NEUBIAS/neubias2020-conference/symposium2017-lisbon/) in the maintenance of the NEUBIAS community also speaks volumes about the importance for technical disciplines of science to have that space for knowledge exchange and network building. Since members of the NEUBIAS community are spread all over Europe with small communities (if at all) at their local institutes, an annual conference offers great possibilities to get work done. This is especially important since many members are in scientific support positions with little time to get involved in community activities during working hours. Conferences attendence, however, implies blocked time on the calendar and offers the chance to collaborate "offline".
 
-But there's a lot more fun we can have with events! For example my favourite thing to organise is hackathons! Academic "fun" hacks can be a sociable and effective way of getting people to learn/practice new things and tackle challenges in their field without pressure and with the support of others. They are great opportunities to practice more fundamental skills like using version control systems to collaborate online but themed hacks can delve into more specific things. For example, during the Reproducibility hackathons ([#ReproHack](http://rse.shef.ac.uk/blog/opencon_london/)) we organised as part of OpenCon Berlin (2016) and London (2017) satellite events, gave participants the opportunity to delve into other peoples code and get exposure to different approaches to making research reproducible.
+But there's a lot more fun we can have with events! For example my favourite thing to organise is hackathons! Academic "fun" hacks can be a sociable and effective way of getting people to learn/practice new things and tackle challenges in their field without pressure and with the support of others. They are great opportunities to practice more fundamental skills like using version control systems to collaborate online while hack themes can provide opportunity to delve into more specific topics. For example, the Reproducibility hackathons ([#ReproHack](http://rse.shef.ac.uk/blog/opencon_london/)) we organised as part of the OpenCon Berlin (2016) and London (2017) satellite events, gave participants the opportunity to explore other people's code and data and get exposure to different approaches to making research reproducible.
 
-Other more focused learning sessions like **coding clubs** and **training schools/learnathons** are great ways to bring people together to work on more advanced topics and get feedback. COding clubs work best when sessions are focused, like working through a book, training program or even blogposts. In the case of workshops, as materials have to moderated/prepared by someone, the events have the side-effect of bringing together not only learners but also trainers over a period of time that facilitates fruitful discussions.
+Other more focused learning sessions like **coding clubs** and **training schools/learnathons** are great ways to bring people together to work on more advanced topics and get feedback. Coding clubs work best when sessions are focused, like working through a book, training program or even blogposts. In the case of workshops, as materials have to be moderated/prepared by someone, the events have the side-effect of bringing together not only learners but also trainers over a period of time that facilitates fruitful discussions.
 
-Note that local events can now easily open up proceedings to remote participants. Streaming or recording events, allowing call ins or even just opening a gitter channel or posting links to live documents could help broaden engagement.
-
-I'll leave you with this quote from open advice:
-
-> two types of community managers; those who go out and give presentations and wave their hands around talking about a product or service, and those who work with a community of volunteers to help them to have a fun, productive and enjoyable collaborative experience. 
+Note that local events can also now easily open up proceedings to remote participants. Streaming or recording events, allowing call ins or even just opening a gitter channel or posting links to live documents could help broaden engagement.
 
 Final top tip: Food and drink == always a winner! 
 
