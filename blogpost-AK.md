@@ -72,10 +72,16 @@ Overall to be successful, they'll need to be diverse enough to allow for varied 
 
 A foundational resource for establishing community culture and practice is the codification and dissemination of standards and guidelines. The DLR approach is a particular great example. They make use of wikis and check lists in a variety of formats (eg markdown & word) to help guide software development. They have established a minimum requirement for all software and further recommendations follow a tiered level fremwork determined by a project's application class, in particular the software scope and size. Individual recommendations are linked to reasoning and further advice which helps researchers understand and get behind the recommended practices. Importantly, the group work with contacts at each institute of the DLR to regularly get feedback on evolving requirements for guidelines, new tools and training. 
 
+
+
+
+<img src="assets/ts-guidelines.png" width="800" height="600">
+<br>
+_Slide from Tobias Schlauch's_ [_talk_](http://rse.ac.uk/conf2017/wp-content/uploads/sites/2/2017/11/Helping-a-friend-out-%E2%80%93-Guidelines-for-better-software_4_3.pptx) _at 2nd RSE conference: 'Helping a friend out: Guidelines for better software'_.
+
+
+
 Materials are currently in German but as we eagerly await their translation into English, perhaps this is somewhere the RSE community can help, by establishing community translation initiatives (see this [excellent post by Achintya Rao](https://medium.com/@RaoOfPhysics/a-guide-to-collaborative-translation-workflows-48c259100614) on how collaborate translation could be supported). 
-
-
-![](assets/ts-guidelines.png)
 
 <br>
 
@@ -138,15 +144,21 @@ Note that local events can also now easily open up proceedings to remote partici
 
 Final top tip: Food and drink == always a winner! 
 
-
+<br>
 
 #### Buy in from upper management + funding
 
-One of the key drivers of the longest standing and most developed communities is buy in and support form upper management early on. Bio-IT benefited by a need for the initiative being flagged early on and led to them now having nearly 8 years of well-resourced effort under their belt. Similarly, the DLR initiative was driven by first raising awareness at upper management level which subsequently lead to upper management support.
+One of the key drivers of the longest standing and most developed communities is buy in and support from upper management or sponsorship early on. Bio-IT benefited by a need for the initiative being flagged early on and led to them now having nearly 8 years of well-resourced effort under their belt. Similarly, the DLR initiative was driven by first raising awareness at upper management level which subsequently lead to upper management support.
 
-**SH: The definition of upper management actually depends on how localized or how decentralized a community is. Sometimes there is nothing like an "upper management".
+Related to buy in is financial support of activities. At the very least, funding for dedicated community building personnel can provide an important start. e.g. 
 
-Related to buy in is financial support of activities. At the very least, funding for dedicated community building personnel can provide an important start. e.g. EMBL and DLR <- want to expand on the funding?> and Mike Croucher's EPSRC Fellowship supported such seed roles. Since research is an inherently international and/or multi-organization endeavor, financial support from umbrella organization can also be sought. The European Union, for instance, has established a programme (COST) for setting up international research networks which supported costs associated with NEUBIAS setup, events (conferences, training schools, short scientific exchanges) and networking activities. Additional information on funding schemes is described in [Eisfeld-Reschke J., Herb U., Wenzlaff K. (2014) Research Funding in Open Science. In: Bartling S., Friesike S. (eds) Opening Science. Springer, Cham](https://doi.org/10.1007/978-3-319-00026-8_16).
+```
+EMBL and DLR <- want to expand on the funding?> 
+```
+
+and Mike Croucher's EPSRC Fellowship supported such seed roles at the University of Sheffield. 
+
+Since research is an inherently international and/or multi-organization endeavor, financial support from umbrella organization can also be sought. The European Union, for instance, has established a programme (COST) for setting up international research networks which supported costs associated with NEUBIAS setup, events (conferences, training schools, short scientific exchanges) and networking activities. Additional information on funding schemes is described in [Eisfeld-Reschke J., Herb U., Wenzlaff K. (2014) Research Funding in Open Science. In: Bartling S., Friesike S. (eds) Opening Science. Springer, Cham](https://doi.org/10.1007/978-3-319-00026-8_16).
 
 <br>
 
@@ -154,22 +166,25 @@ Related to buy in is financial support of activities. At the very least, funding
 
 #### moving from a top down to a decentralised model. 
 
-It is not news to anyone that one of the most challenging aspects of sustaining community is enlisting contributions, mainly in the form of contributions. Challenges to peoples time and the need for support and encouragement and non trivial work is required to foster welcoming inclusive envrironments, key to motivating participation.
+We were all in agreement that one of the most challenging aspects of sustaining community is enlisting contributions. Challenges to peoples time and the non trivial work providing support and encouragement required to foster welcoming inclusive envrironments pose challenges to motivating participation.
 
-To a certain extent, dedicated seed staff will likely continue to be an important determinant on the probability a community building initiative succeeds. But making the most of the available tools and practices we've been discussing (automation, open, reusable materials, good communication channels) can really aid decentralisation. But to sustain momentum, mechanisms to empower and recruit leaders are required.
+To a certain extent, dedicated seed staff will likely continue to be an important determinant on the probability a community building initiative succeeds. While making the most of the available tools and practices we've been discussing (automation, open, reusable materials, good communication channels) can really aid decentralisation, to sustain momentum, mechanisms to empower and recruit grassroots leadership is required.
 
 #### lack of funding & recognition.
 
-Something I found really interesting was that both (Toby) EMBL and (Tobias) DLR had not realised how far ahead their intitiaves were in the areas they were leading. Tobias said he just saw it as part of his job and assumed everyone did the same. To me, this reflects how many such activities are often undervalued. As such, where they're supported, there's not the tendendency to shout about it and when they're not, no one sees a problem leading to difficulties attracting funding.
+Something I found really interesting was that both (Toby) EMBL and (Tobias) DLR had not realised how far ahead the intitiaves they represented were in the areas they were leading. Tobias said he just saw it as part of his job and assumed everyone did the same. To me, this reflects how many such activities are often undervalued. Where they're supported, there's not the tendendency to shout about it and when they're not, no one sees a problem leading to difficulties attracting funding.
 
 RSE UK, RSE de and what is slowly but surely developing into an international initiative (RSE Int) have definitely been a big driver of raising awareness. Our experiences here it Sheffield with having 2 of the first EPSRC fellows has made the benefits of such funding and recognition tangible and easier to promote in time. But there is a long way to go before this becomes widespread throughout research institutions so, until then this will likely be a continuing battle.
 
 
 #### Measuring success.
 
-Time and again, and related to why these skills aren't appreciated, we find it difficult to measure and promote the effect of community and capacity building efforts in computational research skills. They can be hard to link to publications. A particular difficulty raised by the DLR team is how to measure improvements in the **quality** of software researchers produce. Ultimately, this is what determines whether research software is more dependable and indeed more reusable.
+Time and again, and related to why these activities aren't appreciated, we find it difficult to measure and promote the effect of community and capacity building efforts in computational research skills as they can be hard to link to publications. A particular difficulty raised by the DLR team is how to measure improvements in the **quality** of software researchers produce. Ultimately, this is what determines whether research software is more dependable and indeed more reusable.
 
-Equally, as Ḱevin Ottens rightly said during the Desktop Summit 2011 in Berlin: "Community building is family and friendship building." How do we actually measure this? How do we judge whether a community building project has been successful in the context of a proposal/call? Such difficulty in measuring success feeds into to funding challenges. 
+Equally, quoting Ḱevin Ottens at the Desktop Summit 2011 in Berlin: 
+> "Community building is family and friendship building." 
+
+How do we actually measure this? How do we judge whether a community building project has been successful in the context of a proposal/call? Such difficulty in measuring success also feeds into to funding challenges. 
 
 
 ## Future
