@@ -32,7 +32,7 @@ My own interest came from exploring the literature on [**communities of practise
 
 Some of the most successful modern communities of practice are digital open source communities. They leverage the internet and digital tools to codify, document, develop, share and communicate community knowledge, expand networks and culture, and actively invite and encourage participation. In turn they have made the internet the rich place it is today. 
 
-I also quickly realised I had experience of some very successful open source communities from which to draw inspiration. From the [Mozilla Open Leaders mentorship program](https://mozilla.github.io/leadership-training/), [rOpenSci](https://ropensci.org/) and wider [R programming community](https://www.r-project.org/), to local communities, as a co-organiser of the [R Users group](https://www.meetup.com/SheffieldR-Sheffield-R-Users-Group/) and the nascent [dataviz.shef](http://dataviz.shef.ac.uk/) initiative looking to build community around data visualisation across the University of Sheffield.
+I also quickly realised I had experience of some great examples of such open source communities from which to draw inspiration. From the [Mozilla Open Leaders mentorship program](https://mozilla.github.io/leadership-training/), [rOpenSci](https://ropensci.org/) and wider [R programming community](https://www.r-project.org/), to local communities, as a co-organiser of the [R Users group](https://www.meetup.com/SheffieldR-Sheffield-R-Users-Group/) and the nascent [dataviz.shef](http://dataviz.shef.ac.uk/) initiative looking to build community around data visualisation across the University of Sheffield.
 
 As community builders seeking to facilitate broad culture change and capacity building in computational research practice, there is much to emulate from open source approaches. But once we've shown researchers some of the tools at their disposal, how to use them and some best practice guidelines, success depends very much on their response to the challenge we are effectively posing to them as users, beautifully articulated in the intro to [**open advice**](http://open-advice.org/#rmobox):
 
@@ -49,7 +49,7 @@ The motivation for this meeting was to swap notes on what we've tried already to
 
 #### Knowing your community
 
-This is fundamental to the community's ability to adding value and should be one of the first steps in community development. We need to know both where the community is at and where they want to go. Activities responsive to such community goals, needs and aspirations will generate a higher rate of engagement and voluntary participation.
+This is fundamental to the community's ability to add value and should be one of the first community development steps. We need to know both where the community is at and where they want to go. Activities responsive to such community goals, needs and aspirations will generate a higher rate of engagement and voluntary participation.
 
 *And it all started with a survey*: we all started with some form of surveying our communities. But on-going revisiting and reflecting on such fundamentals is important for community sustainability. 
 
@@ -70,17 +70,32 @@ Overall to be successful, they'll need to be diverse enough to allow for varied 
 
 #### Codifying and documenting community practice.
 
-A foundational aspect of establishing community culture and practice is the codification and dissemination of standards and guidelines. The DLR approach is a particular great example. They make use of wikis and check lists in a variety of formats (eg markdown & word) to help guide software development. They have established a minimum requirement for all software and further recommendations follow a tiered level fremwork determined by a project's application class, in particular the software scope and size. 
+A foundational resource for establishing community culture and practice is the codification and dissemination of standards and guidelines. The DLR approach is a particular great example. They make use of wikis and check lists in a variety of formats (eg markdown & word) to help guide software development. They have established a minimum requirement for all software and further recommendations follow a tiered level fremwork determined by a project's application class, in particular the software scope and size. Individual recommendations are linked to reasoning and further advice which helps researchers understand and get behind the recommended practices. Importantly, the group work with contacts at each institute of the DLR to regularly get feedback on evolving requirements for guidelines, new tools and training. 
 
-Individual recommendations are linked to reasoning and further advice which helps researchers understand and get behind the underlying reasoning behind them. Even more importantly, the group work with contacts at each institute of the DLR to regulraly get feedback on evolving requirement for guidelines, new tools and training. While we all eagerly await the translation of the DLR documentation materials into English, prehaps this is somewhere the RSE community can help, by establishing community translation initiatives (see this [excellent post by Achintya Rao](https://medium.com/@RaoOfPhysics/a-guide-to-collaborative-translation-workflows-48c259100614) on how collaborate translation could be supported. 
+Materials are currently in German but as we eagerly await their translation into English, perhaps this is somewhere the RSE community can help, by establishing community translation initiatives (see this [excellent post by Achintya Rao](https://medium.com/@RaoOfPhysics/a-guide-to-collaborative-translation-workflows-48c259100614) on how collaborate translation could be supported). 
 
 
 ![](assets/ts-guidelines.png)
 
+<br>
 
-Clearly there is a lot well deserved effort into Guidelines of Best Practice and documentation, for example the Netherlands [eScience Centre Guide](https://guide.esciencecenter.nl/) is another great example. So it's important that we building upon such efforts rather than duplicating them and we feel that focusing on developing reusable, customisable templates to help guide best practice would serves us well.
+More broadly, excellent Guidelines of Best Practice and documentation are emerging, e.g.
 
-Having said all this, it is important to note that community documentation can take many forms, including blogs, wikis, READMEs, discussion boards and sites like stackoverflow. For example, while hard to quantify the effect of [flashbombing stackoverflow with R questions](http://www.decisionsciencenews.com/2009/09/03/r-flashmob-2-tuesday-8-september-2009/) back in 2009, there is no doubt it that, at the time, it represented a foundational online R knowledge base.
+- the Netherlands [eScience Centre Guide](https://guide.esciencecenter.nl/). 
+- the rOpenSci [Reproducible Research Guide](https://ropensci.github.io/reproducibility-guide/)
+- the British Ecological society  Guides to [Data Management](https://www.britishecologicalsociety.org/wp-content/uploads/2017/06/BES-Data-Guide-2017_web.pdf) and [Reproducible code](https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf)
+- [The Practice of Reproducible Research](https://www.practicereproducibleresearch.org/): Case Studies and Lessons from the Data-Intensive Sciences
+
+<br>
+
+Efforts also take the form of lab level project management policies and tools e.g.
+
+- [Kirstie Whittaker](https://github.com/WhitakerLab/WhitakerLabProjectManagement) and [Christie Bahlai](https://github.com/BahlaiLab/Policies/blob/master/Project_completion.md)'s lab policies.
+- [Ben Marwick lab's `rrtools`](https://github.com/benmarwick/rrtools), open lab level tools for setting reproducible research projects
+
+At this point, it feels like we should be building upon and refining such efforts rather than duplicating them and feel that focusing on developing reusable, customisable templates to help guide best practice would serves us well.
+
+Having said all this, it is important to note that community documentation can take many forms, including blogs, wikis, READMEs, bug reports, discussion boards and sites like stackoverflow. It still blows my mind that the substantial r content on stack overflow, without which I would have never completed a PhD, was seeded by a [flashbombing the site with R questions and answers](http://www.decisionsciencenews.com/2009/09/03/r-flashmob-2-tuesday-8-september-2009/) back in 2009, and arguably became a foundational online knowledge base for the R community. Such repositories of tacit knowledge platfroms for the community to process information and incorporate into refinements of tools and best practice guidelines.
 
 
 #### Actively fostering engagement and participation
