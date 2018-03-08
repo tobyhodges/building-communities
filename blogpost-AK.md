@@ -49,7 +49,7 @@ The motivation for this meeting was to swap notes on what we've tried already to
 
 #### Knowing your community
 
-This should be one of the first steps in building any community and is fundamental to the community's ability to adding value. We need to know both where the community is at and where they want to go. Activities responsive to such community goals, needs and aspirations will generate a higher rate of engagement and voluntary participation.
+This is fundamental to the community's ability to adding value and should be one of the first steps in community development. We need to know both where the community is at and where they want to go. Activities responsive to such community goals, needs and aspirations will generate a higher rate of engagement and voluntary participation.
 
 *And it all started with a survey*: we all started with some form of surveying our communities. But on-going revisiting and reflecting on such fundamentals is important for community sustainability. 
 
@@ -57,15 +57,18 @@ This should be one of the first steps in building any community and is fundament
 
 **Community == communication**
 
-Effective communication channels are vital for both the transfer and processing of information, particularly of tacit knowledge, but also for fostering social, collaborative relationships. Across the various initiatives, approaches tried include mailing lists, [Slack](https://slack.com) and [Glip](https://glip.com) channels, google groups and other discussion forums. To be successful, they'll need to be diverse, including the option for private communication, but to be most effective they're better when they are integrated. 
+Effective communication channels are vital for both the transfer and processing of information, particularly of tacit knowledge, but also for fostering social, collaborative relationships. Across the various initiatives, approaches tried include mailing lists, [Slack](https://slack.com) and [Glip](https://glip.com) channels, google groups and other discussion forums. 
 
-An excellent example is the [mattermost](https://about.mattermost.com/) based internal chat system, developed by the community members of Bio-IT for the communication within the organisation. The control of the features and privacy of the system is a huge driver of adapting it to best serving the community. Coupled with an internally hosted gitlab based repository system, they've managed to build a thriving complementary online community actively engaged in sharing, co-developing, reviewing and discussing their software. The only drawbacks are that it can be difficult to open up discussion to the outside world. 
+A stand out example of community communication is the [mattermost](https://about.mattermost.com/) based Bio-IT internal chat system, set up by community members. Fine control of the features and privacy of the system has made it highly adaptable to serving the community's needs. Coupled with an internally hosted gitlab based repository system, they've managed to build a thriving complementary online community actively engaged in sharing, co-developing, reviewing and discussing their software. The only drawbacks are that it can be difficult to open up discussion to the outside world. 
 
-But it's important to note that it's often good to signpost between communities. For example, for R questions beginners might have, I would unhesitantly guide learners to the [R for Data Science (#R4DS)]() slack community. The 800+ strong slack team of mentors and learners is a constant hive of discussion and trouble shouting while worthing through [R for Data Science](). For slightly more technical questions, I might guide someone to the [rOpenSci]() [slack community]() or the [rOpenSci](https://discuss.ropensci.org/) or [Rstudio]() discussion boards (powered by [discourse](https://www.discourse.org/), another nice open source community building resource).
+But it's important to note that it's often more efficent to signpost and develop links across communities than trying to reproduce parallel versions. For example, for R questions beginners might have, I would unhesitantly guide learners to the [R for Data Science (#R4DS) slack community](https://medium.com/@kierisi/r4ds-the-next-iteration-d51e0a1b0b82). The 1000+ strong slack team of mentors and learners is a constant hive of discussion, trouble shouting and sharing wins while working through [R for Data Science](http://r4ds.had.co.nz/). For slightly more technical questions, I might guide someone to the [rOpenSci](https://ropensci.org/) [slack community](), the [rOpenSci](https://discuss.ropensci.org/) or [Rstudio](https://community.rstudio.com/) discussion boards (powered by [discourse](https://www.discourse.org/), another nice open source community building resource) or #rstats [stackovelflow](https://stackoverflow.com/questions/tagged/r).
+
+
+Overall to be successful, they'll need to be diverse enough to allow for varied communication styles, including the option for private communication, but to be most effective they're better when they are integrated.
 
 <br>
 
-#### Codifying and documenting community practice. Tooling
+#### Codifying and documenting community practice.
 
 A foundational aspect of establishing community culture and practice is the codification and dissemination of standards and guidelines. The DLR approach is a particular great example. They make use of wikis and check lists in a variety of formats (eg markdown & word) to help guide software development. They have established a minimum requirement for all software and further recommendations follow a tiered level fremwork determined by a project's application class, in particular the software scope and size. 
 
@@ -84,10 +87,9 @@ Having said all this, it is important to note that community documentation can t
 
 Successful communities thrive on diverse contributions from a wide range of their members. Most of the attendees at this particular meeting were representing the efforts of a much broader selection of contributors to their respective communities. The role of a community coordinator is often to encourage and facilitate the voluntary efforts of the larger group, and it is this engagement across the whole community that, in turn, produces the most amazing results. To get some idea of the number of individual contributions that it can take to create a successful community, check out the Acknowledgments slide from [Toby's talk at RSE17](http://rse.ac.uk/conf2017/wp-content/uploads/sites/2/2017/11/Bioinformatics_Community_Hodges_RSE17_2.pdf)!
 
-A lot of this however falls in the least recognised and appreciated category. The importance of community catalysts.
-Friendly, supportive active community catalysts make a huge impact, and can be the deciding factor on whether a community succeeds. It's no surprise we routinely ended up back at Bio-IT t~0~, and **Aidan Budd**'s initial vision and drive and ability to be the hub that drew other people together. Other great examples include **Maëlle Salmon** ([@ma_salmon](https://twitter.com/ma_salmon)) as an **rOpensci** package review editor, **Stefanie Butland** ([@StefanieButland](https://twitter.com/StefanieButland)) as **rOpensci** community manager and **Jesse Maegan** [@kierisi](https://twitter.com/kierisi) for establishing [#R4DS](https://medium.com/@kierisi/r4ds-january-challenge-69324561ef2b). 
+A lot of this however falls in the least recognised and appreciated category. The importance of community catalysts. Welcoming, supportive active community catalysts [can have a huge impact in setting the tone](https://ropensci.org/blog/2017/07/18/value-of-welcome/), and can be the deciding factor on whether newcomers choose to stay and participate. It's no surprise we routinely ended up back at Bio-IT t~0~, and **Aidan Budd**'s initial vision, drive and ability to be the hub that drew other people together. Other great examples include **Maëlle Salmon** ([@ma_salmon](https://twitter.com/ma_salmon)) as an **rOpensci** package review editor, **Stefanie Butland** ([@StefanieButland](https://twitter.com/StefanieButland)) as **rOpensci** community manager and **Jesse Maegan** [@kierisi](https://twitter.com/kierisi) for establishing [#R4DS](https://medium.com/@kierisi/r4ds-january-challenge-69324561ef2b). 
 
-Ultimately, though, it's about member participation, so the superpower of great community catalysts is to actively acknowledge and promote member contributions and help them share their stories, ideas and questions. We could all benefit from aspiring to be better catalysts ourselves.
+Ultimately, though, it's about member participation, so the superpower of great community catalysts is to actively acknowledge and promote member contributions and help them share their stories, ideas and questions. And while this all may come more naturally to some, we can all aspire to be better community catalysts.
 
 #### Training
 
