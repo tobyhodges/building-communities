@@ -14,7 +14,7 @@ To a certain extent, dedicated seed staff will likely continue to be an importan
 
 ### Lack of Funding & Recognition
 
-Something I found really interesting was that both (Toby) EMBL and (Tobias) DLR had not realised how far ahead the intitiaves they represented were in the areas they were leading. Tobias said he just saw it as part of his job and assumed everyone did the same. To me, this reflects how many such activities are often undervalued. Where they're supported, there's not the tendendency to shout about it and when they're not, no one sees a problem leading to difficulties attracting funding.
+Something I found really interesting was that both (Toby) EMBL and (Tobias) DLR had not realised how far ahead the initiatives they represented were in the areas they were leading. Tobias said he just saw it as part of his job and assumed everyone did the same. To me, this reflects how many such activities are often undervalued. Where they're supported, there's not the tendency to shout about it and when they're not, no one sees a problem leading to difficulties attracting funding.
 
 RSE UK, RSE de and what is slowly but surely developing into an international initiative (RSE Int) have definitely been a big driver of raising awareness. Our experiences here it Sheffield with having 2 of the first EPSRC fellows has made the benefits of such funding and recognition tangible and easier to promote in time. But there is a long way to go before this becomes widespread throughout research institutions so, until then this will likely be a continuing battle.
 
@@ -28,7 +28,7 @@ Equally, quoting Kevin Ottens at the Desktop Summit 2011 in Berlin:
 
 How do we actually measure this? How do we judge whether a community building project has been successful in the context of a proposal/call? Such difficulty in measuring success also feeds into to funding challenges. 
 
-## 04: Future
+## Future
 
 ### Community Calls
 
