@@ -1,16 +1,15 @@
 # Building communities to support Research Software Engineering: blog series
 
-```
-add short intro
-```
-
 ## 02: What Works
+
+n this blog series, we're sharing our experiences from our meeting at Heidelberg to discuss how to build communities to support Research Software Engineering. We provided background to our meeting and introduced the participants in our [first post](). In this one we pull out the recurring threads in our experiences of what worked.
+
 
 ### Knowing your community
 
 This is fundamental to the community's ability to add value and should be one of the first community development steps. We need to know both where the community is at and where they want to go. Activities responsive to such community goals, needs and aspirations will generate a higher rate of engagement and voluntary participation.
 
-*And it all started with a survey*: we all started with some form of surveying our communities. But on-going revisiting and reflecting on such fundamentals is important for community sustainability. 
+*And it all started with a survey*: we all started with some form of surveying our communities. But on-going revisiting and reflecting on such fundamentals is important for community sustainability so.
 
 ### Effective communication channels
 
@@ -34,17 +33,17 @@ _Slide from Tobias Schlauch's_ [_talk_](http://rse.ac.uk/conf2017/wp-content/upl
 
 Materials are currently in German but as we eagerly await their translation into English, perhaps this is somewhere the RSE community can help, by establishing community translation initiatives (see this [excellent post by Achintya Rao](https://medium.com/@RaoOfPhysics/a-guide-to-collaborative-translation-workflows-48c259100614) on how collaborate translation could be supported). 
 
-More broadly, excellent Guidelines of Best Practice and documentation are emerging, e.g.
+More broadly, starting from as a few papers on [Best](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745) and [Good Enough](https://github.com/swcarpentry/good-enough-practices-in-scientific-computing/blob/gh-pages/good-enough-practices-for-scientific-computing.pdf) Practice for Scientific Computing, a number of excellent Guidelines of Best Practice and documentation are emerging, e.g.
 
 - the Netherlands [eScience Centre Guide](https://guide.esciencecenter.nl/). 
 - the rOpenSci [Reproducible Research Guide](https://ropensci.github.io/reproducibility-guide/)
-- the British Ecological society  Guides to [Data Management](https://www.britishecologicalsociety.org/wp-content/uploads/2017/06/BES-Data-Guide-2017_web.pdf) and [Reproducible code](https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf)
+- the British Ecological Society Guides to [Data Management](https://www.britishecologicalsociety.org/wp-content/uploads/2017/06/BES-Data-Guide-2017_web.pdf) and [Reproducible code](https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf)
 - [The Practice of Reproducible Research](https://www.practicereproducibleresearch.org/): Case Studies and Lessons from the Data-Intensive Sciences
 
 Efforts also take the form of laboratory level project management policies and tools e.g.
 
 - [Kirstie Whittaker](https://github.com/WhitakerLab/WhitakerLabProjectManagement) and [Christie Bahlai](https://github.com/BahlaiLab/Policies/blob/master/Project_completion.md)'s lab policies.
-- [Ben Marwick lab's `rrtools`](https://github.com/benmarwick/rrtools), open lab level tools for setting reproducible research projects
+- [Ben Marwick lab's `rrtools`](https://github.com/benmarwick/rrtools), open lab level tools for setting up reproducible research projects.
 
 At this point, it feels like we should be building upon and refining such efforts rather than duplicating them and feel that focusing on developing reusable, customisable templates to help guide best practice would serves us well.
 
@@ -91,13 +90,9 @@ Final top tip: Food and drink == always a winner!
 
 One of the key drivers of the longest standing and most developed communities is buy in and support from upper management or sponsorship early on. Bio-IT benefited by a need for the initiative being flagged early on and led to them now having nearly 8 years of well-resourced effort under their belt. Similarly, the DLR initiative was driven by first raising awareness at upper management level which subsequently lead to upper management support.
 
-Related to buy in is financial support of activities. At the very least, funding for dedicated community building personnel can provide an important start. e.g. 
+Related to buy in is financial support of activities. At the very least, funding for dedicated community building personnel can provide an important start. Since research is an inherently international and/or multi-organization endeavor, financial support from umbrella organization can also be sought. The European Union, for instance, has established a programme (COST) for setting up international research networks which supported costs associated with NEUBIAS setup, events (conferences, training schools, short scientific exchanges) and networking activities. Additional information on funding schemes can be found [here](https://doi.org/10.1007/978-3-319-00026-8_16).
 
-```
-EMBL and DLR <- want to expand on the funding?> 
-```
 
-and Mike Croucher's EPSRC Fellowship supported such seed roles at the University of Sheffield. 
+## next time
 
-Since research is an inherently international and/or multi-organization endeavor, financial support from umbrella organization can also be sought. The European Union, for instance, has established a programme (COST) for setting up international research networks which supported costs associated with NEUBIAS setup, events (conferences, training schools, short scientific exchanges) and networking activities. Additional information on funding schemes is described in [Eisfeld-Reschke J., Herb U., Wenzlaff K. (2014) Research Funding in Open Science. In: Bartling S., Friesike S. (eds) Opening Science. Springer, Cham](https://doi.org/10.1007/978-3-319-00026-8_16).
-
+Join us for our final post on ***Continuing challenges and future steps***
