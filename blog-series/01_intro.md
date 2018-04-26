@@ -43,4 +43,6 @@ As community builders seeking to facilitate broad culture change and capacity bu
 
 ## On the Day
 
-The motivation for this meeting was to swap notes on what we've tried already to build community, what worked particularly well and identify challenges and steps for the future.  Here we try and pull together some recurring threads in our experiences. But please note that the examples mentioned in this blog are by no means exhaustive. 
+The motivation for this meeting was to swap notes on what we've tried already to build community, what worked particularly well and identify challenges and steps for the future.  Here we try and pull together some recurring threads in our experiences. But please note that the examples mentioned in this blog are by no means exhaustive.
+
+Check back here tomorrow for the next post on how to successfully build and develop a community.
