@@ -44,12 +44,9 @@ The Carpentries do a great job of this with their [lesson template](https://gith
 
 ### Iterating
 
-```
+None of the attendees at this meeting have formal training in community building. We're all learning as we go and, as with learning anything, it's important to reflect as we progress (see Kolb's experiential learning cycle, nicely described [here](https://www.simplypsychology.org/learning-kolb.html)). Not everything that we do will work, and some things that work once may not be universally applicable to every situation or community. It's crucial that we continually assess and reassess our methods and the health of our community. Are we inclusive? Are we providing the support that our members need? What are the old and new  challenges for our communities? Are we bringing new people into the community? 
 
-Tobias Schlauch: can you elaborate at all on iterating?
-
-```
-
+One way to encourage this reflection, and to help us to plan our action in the future, is to observe the results of our current efforts, and report and discuss these with our peers. That way we can all benefit from the combined experience of all members of the group. The community calls that we have planned are an opportunity to do exactly this, and we encourage anyone reading this to join the conversation (see link above). Many of us are also looking forward to meeting in person again at [RSE18](http://rse.ac.uk/conf2018/), which promises to be another great event and opportunity to learn from the great things that RSEs are achieving. If you're going to be in Birmingham in September, please find us and say hi!
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">What it takes to build a successful, supportive and responsive bioinformatics community by <a href="https://twitter.com/tbyhdgs?ref_src=twsrc%5Etfw">@tbyhdgs</a> <br><br>❌ ban loneliness in research ❌ <a href="https://twitter.com/hashtag/RSE17?src=hash&amp;ref_src=twsrc%5Etfw">#RSE17</a> <a href="https://t.co/VdIeZS8Gyj">pic.twitter.com/VdIeZS8Gyj</a></p>&mdash; annakrystalli (@annakrystalli) <a href="https://twitter.com/annakrystalli/status/906139603140214785?ref_src=twsrc%5Etfw">September 8, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
